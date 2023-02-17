@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>VPN Policy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network-Icons" transform="translate(-522.000000, -474.000000)" fill-rule="nonzero">
+            <g id="VPN-Policy" transform="translate(521.718750, 474.000000)">
+                <g id="Group">
+                    <ellipse id="Oval" fill="#E02533" cx="54.3" cy="54" rx="54" ry="53.8"></ellipse>
+                    <g transform="translate(12.000000, 25.000000)" id="Path">
+                        <path d="M83.6,57.1 L1,57.1 C0.8,57.1 0.7,57 0.7,56.8 L0.7,1.2 C0.7,1 0.8,0.9 1,0.9 L83.6,0.9 C83.8,0.9 83.9,1 83.9,1.2 L83.9,56.8 C83.9,56.9 83.8,57.1 83.6,57.1 Z" fill="#FFFFFF"></path>
+                        <path d="M80.4,54.5 L3.7,54.5 C3.5,54.5 3.4,54.4 3.4,54.2 L3.4,3.5 C3.4,3.3 3.5,3.2 3.7,3.2 L80.4,3.2 C80.6,3.2 80.7,3.3 80.7,3.5 L80.7,54.2 C80.8,54.4 80.6,54.5 80.4,54.5 Z" fill="#E02533"></path>
+                        <path d="M76.9,17.2 L8.3,17.2 C8.1,17.2 8,17.1 8,16.9 L8,9.3 C8,9.1 8.1,9 8.3,9 L76.9,9 C77.1,9 77.2,9.1 77.2,9.3 L77.2,16.9 C77.2,17 77.1,17.2 76.9,17.2 Z" fill="#FFFFFF"></path>
+                        <path d="M76.9,50.5 L8.3,50.5 C8.1,50.5 8,50.4 8,50.2 L8,24.7 C8,24.5 8.1,24.4 8.3,24.4 L76.9,24.4 C77.1,24.4 77.2,24.5 77.2,24.7 L77.2,50.2 C77.2,50.4 77.1,50.5 76.9,50.5 Z" fill="#FFFFFF"></path>
+                        <path d="M42.3,41 L13.4,41 C13.2,41 13.1,40.9 13.1,40.7 L13.1,39.5 C13.1,39.3 13.2,39.2 13.4,39.2 L42.3,39.2 C42.5,39.2 42.6,39.3 42.6,39.5 L42.6,40.7 C42.6,40.8 42.5,41 42.3,41 Z" fill="#E02533"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

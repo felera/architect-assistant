@@ -1,0 +1,40 @@
+{
+	"appVersion": "3.2.2",
+	"schemaVersion": "1.4",
+	"owner": {
+		"username": null,
+		"fullname": null,
+		"email": null
+	},
+	"template": {
+		"description": "Default ToC",
+		"isGlobalDefaultTemplate": true,
+		"name": "Solution Architecture Template",
+		"_id": "template_company_ibm"
+	},
+	"geography": [],
+	"businessUnit": [],
+	"includedArtifacts": [
+		{
+			"type": "Static View",
+			"typeId": "assetartifact_componentmodel_staticview",
+			"_id": "assetartifact_componentmodel_staticview"
+		}
+	],
+	"industry": [],
+	"technology": [],
+	"technicalCapability": [],
+	"businessCapability": [],
+	"executiveSummary": "",
+	"tag": [],
+	"name": "Configurable Forms",
+	"_id": "arch_2Z5MiP736av",
+	"status": "Pending",
+	"type": "Solution",
+	"created": null,
+	"numOfCopied": 0,
+	"lastModified": "2021-08-25 10:46:28",
+	"clientName": "",
+	"salesConnectNum": "",
+	"taxonomies": []
+}

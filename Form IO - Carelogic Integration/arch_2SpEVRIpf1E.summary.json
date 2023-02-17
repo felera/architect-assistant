@@ -1,0 +1,75 @@
+{
+	"appVersion": "3.2.2",
+	"schemaVersion": "1.4",
+	"owner": {
+		"username": null,
+		"fullname": null,
+		"email": null
+	},
+	"template": {
+		"description": "Default ToC",
+		"isGlobalDefaultTemplate": true,
+		"name": "Solution Architecture Template",
+		"_id": "template_company_ibm"
+	},
+	"geography": [],
+	"businessUnit": [],
+	"includedArtifacts": [
+		{
+			"type": "System Context",
+			"typeId": "assetartifact_systemcontext",
+			"_id": "assetartifact_systemcontext"
+		},
+		{
+			"type": "Services View",
+			"typeId": "assetartifact_architectureoverview_aodservice",
+			"_id": "assetartifact_architectureoverview_aodservice"
+		},
+		{
+			"type": "Enterprise View",
+			"typeId": "assetartifact_architectureoverview_enterprise",
+			"_id": "assetartifact_architectureoverview_enterprise"
+		},
+		{
+			"type": "IT System View",
+			"typeId": "assetartifact_architectureoverview_itsystem",
+			"_id": "assetartifact_architectureoverview_itsystem"
+		},
+		{
+			"type": "Architectural Decisions",
+			"typeId": "assetartifact_architecturedecision",
+			"_id": "assetartifact_architecturedecision"
+		},
+		{
+			"type": "Static View",
+			"typeId": "assetartifact_componentmodel_staticview",
+			"_id": "assetartifact_componentmodel_staticview"
+		},
+		{
+			"type": "Dynamic View",
+			"typeId": "assetartifact_componentmodel_dynamicview",
+			"_id": "assetartifact_componentmodel_dynamicview"
+		},
+		{
+			"type": "Architectural Principles",
+			"typeId": "assetartifact_architecture_principles",
+			"_id": "assetartifact_architecture_principles"
+		}
+	],
+	"industry": [],
+	"technology": [],
+	"technicalCapability": [],
+	"businessCapability": [],
+	"executiveSummary": "",
+	"tag": [],
+	"name": "Form IO - Carelogic Integration",
+	"_id": "arch_2SpEVRIpf1E",
+	"status": "Pending",
+	"type": "Solution",
+	"created": null,
+	"numOfCopied": 0,
+	"lastModified": "2021-08-02 21:11:36",
+	"clientName": "",
+	"salesConnectNum": "",
+	"taxonomies": []
+}

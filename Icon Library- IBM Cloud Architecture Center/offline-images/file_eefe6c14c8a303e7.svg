@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Switch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network-Icons" transform="translate(-249.000000, -879.000000)">
+            <g id="Switch" transform="translate(249.968750, 879.000000)">
+                <rect id="Rectangle" fill="#38B0DE" fill-rule="nonzero" x="0" y="0" width="108" height="108.8"></rect>
+                <g id="Group" transform="translate(12.800000, 20.000000)">
+                    <g transform="translate(40.000000, 30.000000)" id="Path">
+                        <path d="M0.4,11 L39.5,11" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="31.3 21.2 29.6 19.3 38.6 11 29.6 2.7 31.3 0.9 42.2 11"></polygon>
+                    </g>
+                    <g transform="translate(40.000000, 0.000000)" id="Path">
+                        <path d="M37.6,10.4 L0.6,10.4" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="29.4 0.3 27.7 2.1 36.6 10.4 27.7 18.7 29.4 20.6 40.3 10.4"></polygon>
+                    </g>
+                    <g transform="translate(0.000000, 48.000000)" id="Path">
+                        <path d="M2.9,10.3 L40.4,10.3" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="11.1 20.5 12.8 18.7 3.8 10.3 12.8 2 11.1 0.2 0.2 10.3"></polygon>
+                    </g>
+                    <g transform="translate(0.000000, 17.000000)" id="Path">
+                        <path d="M40.4,10.8 L2.9,10.8" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="11.1 0.7 12.8 2.5 3.8 10.8 12.8 19.2 11.1 21 0.2 10.8"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

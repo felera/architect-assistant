@@ -1,0 +1,65 @@
+{
+	"appVersion": "3.2.2",
+	"schemaVersion": "1.4",
+	"owner": {
+		"username": null,
+		"fullname": null,
+		"email": null
+	},
+	"template": {
+		"description": "Default ToC",
+		"isGlobalDefaultTemplate": true,
+		"name": "Solution Architecture Template",
+		"_id": "template_company_ibm"
+	},
+	"geography": [],
+	"businessUnit": [],
+	"includedArtifacts": [
+		{
+			"type": "System Context",
+			"typeId": "assetartifact_systemcontext",
+			"_id": "assetartifact_systemcontext"
+		},
+		{
+			"type": "Functional Requirements",
+			"typeId": "assetartifact_functionalrequirement",
+			"_id": "assetartifact_functionalrequirement"
+		},
+		{
+			"type": "Non Functional Requirements",
+			"typeId": "assetartifact_nonfunctionalrequirement",
+			"_id": "assetartifact_nonfunctionalrequirement"
+		},
+		{
+			"type": "IT System View",
+			"typeId": "assetartifact_architectureoverview_itsystem",
+			"_id": "assetartifact_architectureoverview_itsystem"
+		},
+		{
+			"type": "Usage Scenario",
+			"typeId": "assetartifact_architectureoverview_usagescenario",
+			"_id": "assetartifact_architectureoverview_usagescenario"
+		},
+		{
+			"type": "Static View",
+			"typeId": "assetartifact_componentmodel_staticview",
+			"_id": "assetartifact_componentmodel_staticview"
+		}
+	],
+	"industry": [],
+	"technology": [],
+	"technicalCapability": [],
+	"businessCapability": [],
+	"executiveSummary": "",
+	"tag": [],
+	"name": "ONC FHIR R4",
+	"_id": "arch_3pCsCpu1xfi",
+	"status": "Pending",
+	"type": "Solution",
+	"created": null,
+	"numOfCopied": 0,
+	"lastModified": "2022-07-12 12:42:15",
+	"clientName": "",
+	"salesConnectNum": "",
+	"taxonomies": []
+}

@@ -1,0 +1,1616 @@
+{
+	"toc": [
+		{
+			"globalTOCPosition": "1",
+			"artifactTypeName": "Overview",
+			"artifactType": "assetartifact_executivesummary",
+			"displayName": "Overview",
+			"format": "text",
+			"typeId": "1",
+			"_id": "artifacttype_9edbd406-69fb-3a95-8b2e-58a0974b2710",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"globalTOCPosition": "2",
+			"parentGroup": "",
+			"_id": "artifactgroup_7dc829db-0746-3ddc-816c-d07338d4eebf",
+			"displayName": "Scope",
+			"child": [
+				{
+					"artifactTypeName": "Business Challenge",
+					"globalTOCPosition": "2.1",
+					"artifactType": "assetartifact_businesschallenge",
+					"displayName": "Business Challenge",
+					"format": "text",
+					"typeId": "2.1",
+					"_id": "artifacttype_d1ab4a95-e05f-3882-9f19-6500fc0d3b2b",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "2.2",
+					"artifactTypeName": "System Context",
+					"artifactType": "assetartifact_systemcontext",
+					"displayName": "System Context",
+					"format": "diagram",
+					"typeId": "2.2",
+					"_id": "artifacttype_8ca70362-e3d1-3b9c-91d1-f755d029a2e3",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "3",
+			"parentGroup": "",
+			"_id": "artifactgroup_3b8700e6-c854-3ec9-af0e-9b2e600721ce",
+			"displayName": "Requirement",
+			"child": [
+				{
+					"globalTOCPosition": "3.1",
+					"parentGroup": "artifactgroup_3b8700e6-c854-3ec9-af0e-9b2e600721ce",
+					"_id": "artifactgroup_6e299154-751f-36ee-acb2-145c8af87481",
+					"displayName": "Use Case Model",
+					"child": [
+						{
+							"artifactTypeName": "Use Case Diagram",
+							"globalTOCPosition": "3.1.1",
+							"artifactType": "assetartifact_usecase_ucdiagram",
+							"displayName": "Use Case Diagram",
+							"format": "diagram",
+							"typeId": "3.1.1",
+							"_id": "artifacttype_cde39d5e-c892-3093-ab3d-bad448acb8a0",
+							"hasContent": false
+						},
+						{
+							"globalTOCPosition": "3.1.2",
+							"artifactTypeName": "Use Case",
+							"artifactType": "assetartifact_usecase_uctext",
+							"displayName": "Use Case",
+							"format": "text",
+							"typeId": "3.1.2",
+							"_id": "artifacttype_dde4b71c-82db-3f66-964a-3a04fbf56dff",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"artifactTypeName": "Functional Requirements",
+					"globalTOCPosition": "3.2",
+					"artifactType": "assetartifact_functionalrequirement",
+					"displayName": "Functional Requirements",
+					"format": "text",
+					"typeId": "3.2",
+					"_id": "artifacttype_12eefe0a-435b-3176-8bbe-4dc928a2e4c3",
+					"hasContent": false
+				},
+				{
+					"artifactTypeName": "Non Functional Requirements",
+					"globalTOCPosition": "3.3",
+					"artifactType": "assetartifact_nonfunctionalrequirement",
+					"displayName": "Non Functional Requirements",
+					"format": "text",
+					"typeId": "3.3",
+					"_id": "artifacttype_f0eebd79-15c9-3ebc-a73b-8efc3f634f59",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "4",
+			"parentGroup": "",
+			"_id": "artifactgroup_40044cbe-6c76-33a1-b9e0-eab8937d30ca",
+			"displayName": "Data Model",
+			"child": [
+				{
+					"artifactTypeName": "Logical Data Model",
+					"globalTOCPosition": "4.1",
+					"artifactType": "assetartifact_logical_datamodel",
+					"displayName": "Logical Data Model",
+					"format": "diagram",
+					"typeId": "4.1",
+					"_id": "artifacttype_246bc46f-0286-3ad4-bf01-679592db59c7",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "5",
+			"parentGroup": "",
+			"_id": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+			"displayName": "Architecture",
+			"child": [
+				{
+					"globalTOCPosition": "5.1",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_771e7b65-3b46-390d-bc41-3c88cfaf13ef",
+					"displayName": "Architecture Overview",
+					"child": [
+						{
+							"artifactTypeName": "Services View",
+							"globalTOCPosition": "5.1.1",
+							"artifactType": "assetartifact_architectureoverview_aodservice",
+							"displayName": "Services View",
+							"format": "diagram",
+							"typeId": "5.1.1",
+							"_id": "artifacttype_2c548a13-6bd9-3edc-a496-0318af82f0d1",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Enterprise View",
+							"globalTOCPosition": "5.1.2",
+							"artifactType": "assetartifact_architectureoverview_enterprise",
+							"displayName": "Enterprise View",
+							"format": "diagram",
+							"typeId": "5.1.2",
+							"_id": "artifacttype_16bfe592-ae95-371c-9f64-3a881b667707",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "IT System View",
+							"globalTOCPosition": "5.1.3",
+							"artifactType": "assetartifact_architectureoverview_itsystem",
+							"displayName": "IT System View",
+							"format": "diagram",
+							"typeId": "5.1.3",
+							"_id": "artifacttype_355f72be-6566-3f48-8b15-c30f671d7c8f",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Usage Scenario",
+							"globalTOCPosition": "5.1.4",
+							"artifactType": "assetartifact_architectureoverview_usagescenario",
+							"displayName": "Usage Scenario",
+							"format": "diagram",
+							"typeId": "5.1.4",
+							"_id": "artifacttype_d118451c-0816-3aa5-8b89-3119feb4168a",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"artifactTypeName": "Architectural Decisions",
+					"globalTOCPosition": "5.2",
+					"artifactType": "assetartifact_architecturedecision",
+					"displayName": "Architectural Decisions",
+					"format": "text",
+					"typeId": "5.2",
+					"_id": "artifacttype_fddae3fa-aafa-32af-94a4-bc3e1ed255cc",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"child": [],
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "5.3",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_c848fca1-3956-3bb4-8c88-8815b99e00fc",
+					"displayName": "Component Model",
+					"child": [
+						{
+							"artifactTypeName": "Static View",
+							"globalTOCPosition": "5.3.1",
+							"artifactType": "assetartifact_componentmodel_staticview",
+							"displayName": "Static View",
+							"format": "diagram",
+							"typeId": "5.3.1",
+							"_id": "artifacttype_4a44b8fa-5057-3826-84d7-169a6fc1f2ed",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Dynamic View",
+							"globalTOCPosition": "5.3.2",
+							"artifactType": "assetartifact_componentmodel_dynamicview",
+							"displayName": "Dynamic View",
+							"format": "diagram",
+							"typeId": "5.3.2",
+							"_id": "artifacttype_6e1239a1-6a68-3dae-ae87-b05ecf80d25b",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"globalTOCPosition": "5.4",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_aef1c0cc-540d-31c6-8817-ac2b282f37d3",
+					"displayName": "Operational Model",
+					"child": [
+						{
+							"artifactTypeName": "Logical Operational View",
+							"globalTOCPosition": "5.4.1",
+							"artifactType": "assetartifact_operationalmodel_logicaloperational",
+							"displayName": "Logical Operational View",
+							"format": "diagram",
+							"typeId": "5.4.1",
+							"_id": "artifacttype_5ca43d50-d7da-322f-a1b0-f65b0c12b2c8",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Prescribed Operational View",
+							"globalTOCPosition": "5.4.2",
+							"artifactType": "assetartifact_operationalmodel_physicaloperational",
+							"displayName": "Prescribed Operational View",
+							"format": "diagram",
+							"typeId": "5.4.2",
+							"_id": "artifacttype_7503dbb1-18f7-36ac-ad12-98d977ef3d0d",
+							"hasContent": false
+						}
+					]
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "6",
+			"parentGroup": "",
+			"_id": "artifactgroup_7cddcb3d-c508-3828-8893-128dc3d6c8b7",
+			"displayName": "RAID",
+			"child": [
+				{
+					"globalTOCPosition": "6.1",
+					"artifactTypeName": "Risks",
+					"artifactType": "assetartifact_risk",
+					"displayName": "Risks",
+					"format": "text",
+					"typeId": "6.1",
+					"_id": "artifacttype_94622837-e58f-34c3-9263-8260b69601c8",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.2",
+					"artifactTypeName": "Assumptions",
+					"artifactType": "assetartifact_assumption",
+					"displayName": "Assumptions",
+					"format": "text",
+					"typeId": "6.2",
+					"_id": "artifacttype_2142b656-62ba-304d-95d4-77b1b144e5e1",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.3",
+					"artifactTypeName": "Issues",
+					"artifactType": "assetartifact_issue",
+					"displayName": "Issues",
+					"format": "text",
+					"typeId": "6.3",
+					"_id": "artifacttype_f4d01807-f847-3ccd-87a2-32877074295e",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.4",
+					"artifactTypeName": "Dependencies",
+					"artifactType": "assetartifact_dependency",
+					"displayName": "Dependencies",
+					"format": "text",
+					"typeId": "6.4",
+					"_id": "artifacttype_9c5463b3-5c9e-3790-86cb-9b8866cc062a",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"artifactTypeName": "Architectural Principles",
+			"globalTOCPosition": "7",
+			"artifactType": "assetartifact_architecture_principles",
+			"displayName": "Architectural Principles",
+			"format": "text",
+			"typeId": "7",
+			"_id": "artifacttype_92ccfc5d-c31a-349d-97c0-6d75c8841a8a",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"artifactTypeName": "Misc Diagram",
+			"globalTOCPosition": "8",
+			"artifactType": "assetartifact_miscdiagram",
+			"displayName": "Misc Diagram",
+			"format": "diagram",
+			"typeId": "9",
+			"_id": "artifacttype_23219eb8-b210-3e5a-8621-9881bee93055",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"artifactTypeName": "Notes",
+			"globalTOCPosition": "9",
+			"artifactType": "assetartifact_notes",
+			"displayName": "Notes",
+			"format": "text",
+			"typeId": "8",
+			"_id": "artifacttype_02226b19-474e-37a6-ab39-d9bb31767fb5",
+			"child": [],
+			"hasContent": false
+		}
+	],
+	"toc_cards": {
+		"executivesummary": {
+			"artifacttype_9edbd406-69fb-3a95-8b2e-58a0974b2710": []
+		},
+		"businesschallenge": {
+			"artifacttype_d1ab4a95-e05f-3882-9f19-6500fc0d3b2b": []
+		},
+		"systemContext": {
+			"artifacttype_8ca70362-e3d1-3b9c-91d1-f755d029a2e3": [
+				{
+					"_id": "systemcontext_2WEv6qoHxxM",
+					"name": "System Context",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2021-11-16 15:39:04",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2021-07-30 14:28:11",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"useCaseViews": {
+			"artifacttype_cde39d5e-c892-3093-ab3d-bad448acb8a0": []
+		},
+		"usecasetext": {
+			"artifacttype_dde4b71c-82db-3f66-964a-3a04fbf56dff": []
+		},
+		"functionalrequirement": {
+			"artifacttype_12eefe0a-435b-3176-8bbe-4dc928a2e4c3": []
+		},
+		"nonfunctionalrequirement": {
+			"artifacttype_f0eebd79-15c9-3ebc-a73b-8efc3f634f59": []
+		},
+		"logicalERD": {
+			"artifacttype_246bc46f-0286-3ad4-bf01-679592db59c7": []
+		},
+		"aodServices": {
+			"artifacttype_2c548a13-6bd9-3edc-a496-0318af82f0d1": []
+		},
+		"aodEnterprises": {
+			"artifacttype_16bfe592-ae95-371c-9f64-3a881b667707": [
+				{
+					"_id": "aodenterprise_2WFcd91Beug",
+					"name": "Enterprise view",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2021-07-30 16:03:16",
+						"avatar": "assets/img/index.png"
+					},
+					"additionalInfo": {},
+					"lastModified": "2021-07-30 16:03:16",
+					"c_lastModified": "2021-07-30",
+					"c_iconClass": "card_icon_enterprise_view",
+					"c_hide": false
+				},
+				{
+					"_id": "aodenterprise_2WFcd91Beug_2XkXL3g7szA",
+					"name": "Enterprise View V2",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2021-11-12 16:52:07",
+						"avatar": "assets/img/index.png"
+					},
+					"additionalInfo": {},
+					"lastModified": "2021-08-06 19:07:57",
+					"c_lastModified": "2021-07-30",
+					"c_iconClass": "card_icon_enterprise_view",
+					"c_hide": false
+				}
+			]
+		},
+		"aodITSystems": {
+			"artifacttype_355f72be-6566-3f48-8b15-c30f671d7c8f": [
+				{
+					"_id": "aoditsystem_2XkCcOfnYPe",
+					"name": "ECC AOD System View",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2021-08-06 19:07:11",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2021-08-06 17:42:20",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"aodUsageScenarios": {
+			"artifacttype_d118451c-0816-3aa5-8b89-3119feb4168a": []
+		},
+		"architecturaldecision": {
+			"artifacttype_fddae3fa-aafa-32af-94a4-bc3e1ed255cc": []
+		},
+		"cmStaticViews": {
+			"artifacttype_4a44b8fa-5057-3826-84d7-169a6fc1f2ed": []
+		},
+		"cmDynamicViews": {
+			"artifacttype_6e1239a1-6a68-3dae-ae87-b05ecf80d25b": []
+		},
+		"lomViews": {
+			"artifacttype_5ca43d50-d7da-322f-a1b0-f65b0c12b2c8": []
+		},
+		"lomPhysicalViews": {
+			"artifacttype_7503dbb1-18f7-36ac-ad12-98d977ef3d0d": []
+		},
+		"miscDiagram": {
+			"artifacttype_23219eb8-b210-3e5a-8621-9881bee93055": []
+		},
+		"risk": {
+			"artifacttype_94622837-e58f-34c3-9263-8260b69601c8": []
+		},
+		"assumption": {
+			"artifacttype_2142b656-62ba-304d-95d4-77b1b144e5e1": []
+		},
+		"issue": {
+			"artifacttype_f4d01807-f847-3ccd-87a2-32877074295e": []
+		},
+		"dependency": {
+			"artifacttype_9c5463b3-5c9e-3790-86cb-9b8866cc062a": []
+		},
+		"architectureprinciple": {
+			"artifacttype_92ccfc5d-c31a-349d-97c0-6d75c8841a8a": []
+		},
+		"notes": {
+			"artifacttype_02226b19-474e-37a6-ab39-d9bb31767fb5": []
+		}
+	},
+	"textual": {
+		"instances": {}
+	},
+	"diagram": {
+		"instances": {
+			"systemcontext_2WEv6qoHxxM": {
+				"uiInfo": "<mxGraphModel dx=\"1485\" dy=\"931\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"systemcontext_2WEv6qoHxxM\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" style=\"ellipse;whiteSpace=wrap;html=1;\" parent=\"1\" vertex=\"1\" modelId=\"targetsystem_2WEv72zVMOl\"><mxGeometry x=\"407\" y=\"246\" width=\"140\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_336zr76B8J0k\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEv9j42avA\"><mxGeometry x=\"290\" y=\"20\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_436zr76BN9S2\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEv9GIoQTu\"><mxGeometry x=\"73\" y=\"85\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_536zr76BEPNM\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#C3ABD0;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvbDPFsEY\"><mxGeometry x=\"63\" y=\"200\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_636zr76BHKR1\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#C3ABD0;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvcYRkb6M\"><mxGeometry x=\"806\" y=\"315\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_736zr76BJJCC\" style=\"shape=process;html=1;whiteSpace=wrap;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvqJ1JjO1\"><mxGeometry x=\"1018\" y=\"194\" width=\"112\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_836zr76B5iiZ\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#B9E0A5;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvugGsvjc\"><mxGeometry x=\"810\" y=\"216\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1036zr76CPsBy\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvyzjS6l7\"><mxGeometry x=\"136\" y=\"470\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1136zr76C7aUh\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvA5aLK7u\"><mxGeometry x=\"272\" y=\"480\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1236zr76C9eif\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvI7MJpb3\"><mxGeometry x=\"464\" y=\"20.411750344669144\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1336zr76CC9YS\" style=\"rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_436zr76BN9S2\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEvKMIfcl7\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1436zr76CJSJ9\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_536zr76BEPNM\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEvRYvgRJX\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1536zr76CYjFq\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_336zr76B8J0k\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEvTsfPPYJ\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1636zr76CuiJd\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_1136zr76C7aUh\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEvUxg6VJz\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1736zr76CIQY0\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvWnbM442\"><mxGeometry x=\"136\" y=\"25\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1836zr76CNCpB\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_1736zr76CIQY0\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEvXSsUlyH\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_1936zr76C44Q6\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#C3ABD0;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEw0A7qeAr\"><mxGeometry x=\"406\" y=\"490\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2036zr76CHJPc\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_1236zr76C9eif\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEw56oikCG\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2136zr76CtGCW\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFCCE6;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEwqxm5Thc\"><mxGeometry x=\"814\" y=\"93\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2236zr76CLGyc\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFCCE6;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEwsdIkwvo\"><mxGeometry x=\"650\" y=\"40\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2336zr76CkspX\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_836zr76B5iiZ\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WEwx8SQ1lr\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2536zr76Cnrdj\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_636zr76BHKR1\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WESgtvdk8m\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2636zr76CyJUd\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_1936zr76C44Q6\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WESlDIcmmX\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2736zr76C4DEL\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_1036zr76CPsBy\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WESr9whpqm\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"380\" y=\"259.9999999999999\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2836zr76CyHTD\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_2236zr76CLGyc\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WET5GkjQpV\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_2936zr76CFAqv\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_2136zr76CtGCW\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WET6c87K1J\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3036zr76CyJRV\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WETnIK8n1M\"><mxGeometry x=\"71\" y=\"320\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3136zr76CfQJR\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_3036zr76CyJRV\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WETrizjupU\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3236zr76CNuo4\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WF8WnAIoZA\"><mxGeometry x=\"69\" y=\"445\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3336zr76C5iVg\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_3236zr76CNuo4\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2WF8XYDKZSV\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3436zr76ChzDi\" value=\"Front End Components\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"20\" y=\"590\" width=\"147\" height=\"40\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3536zr76Cu6Cn\" value=\"Security Components\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=#FFCCE6;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"180\" y=\"590\" width=\"147\" height=\"40\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3636zr76Cmr0o\" value=\"Backend applications\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=#B9E0A5;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"336\" y=\"590\" width=\"147\" height=\"40\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3736zr76CdgEC\" value=\"Data Validation Components\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=#C3ABD0;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"498\" y=\"590\" width=\"173\" height=\"40\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3836zr76CSn6H\" value=\"Integration Components\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"690\" y=\"590\" width=\"210\" height=\"40\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_3936zr76CqB6f\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2Xf2SmuWBiP\"><mxGeometry x=\"547\" y=\"490\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4036zr76CnKlA\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_3936zr76CqB6f\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2Xf34R8IUVX\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4136zr76Ch6DA\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2XfcU9Zr6bK\"><mxGeometry x=\"686\" y=\"490\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4236zr76CqB27\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_4136zr76Ch6DA\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_2XfcW07PqzE\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4336zr76CxAnv\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2Xfd1CInedM\"><mxGeometry x=\"804\" y=\"405\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4436zr76CNyM9\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2XfdwIH3y7T\"><mxGeometry x=\"1000\" y=\"375\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4636zr76Cutje\" value=\"\" style=\"shape=mxgraph.annotation.two_way_arrow_horizontal;whiteSpace=wrap;html=1;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#97D077;rotation=75;direction=south;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"960.5\" y=\"221.5\" width=\"21\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4736zr76DbdSR\" value=\"\" style=\"shape=mxgraph.annotation.two_way_arrow_horizontal;whiteSpace=wrap;html=1;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#97D077;rotation=30;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"946\" y=\"164\" width=\"50\" height=\"21\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4836zr76DNTEO\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2XiV8PhEYQZ\"><mxGeometry x=\"990\" y=\"80\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_2WEv6qoHxxM_4936zr76D0qtS\" style=\"rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_2WEv6qoHxxM_4336zr76CxAnv\" target=\"systemcontext_2WEv6qoHxxM_236zr76BykMT\" edge=\"1\" modelId=\"connector_36zdL0zQHG6\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "SystemContext",
+						"_id": "systemcontext_2WEv6qoHxxM",
+						"label": "System Context",
+						"description": "",
+						"lastModified": "2021-11-16 15:39:04"
+					},
+					{
+						"modelType": "TargetSystem",
+						"label": "EVV Solution",
+						"description": "EVV is a complex solution, built as a composition of many other services or application subsystems. Most of them are already in place and need to be adjusted to create a seamless integration. Some other components will need to be created from scratch, in this case, a web application using PWA capabilities.",
+						"_id": "targetsystem_2WEv72zVMOl"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEvKMIfcl7",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEvRYvgRJX",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEvTsfPPYJ",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEvUxg6VJz",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEvXSsUlyH",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEw56oikCG",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WEwx8SQ1lr",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WESgtvdk8m",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WESlDIcmmX",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WESr9whpqm",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WET5GkjQpV",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WET6c87K1J",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WETrizjupU",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2WF8XYDKZSV",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2Xf34R8IUVX",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_2XfcW07PqzE",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_36zdL0zQHG6",
+						"type": "function"
+					}
+				]
+			},
+			"aodenterprise_2WFcd91Beug": {
+				"uiInfo": "<mxGraphModel dx=\"1378\" dy=\"698\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aodenterprise_2WFcd91Beug\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aodenterprise_2WFcd91Beug_22WFhscmjlP6\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFdDmnuC8q\"><mxGeometry x=\"90\" y=\"60\" width=\"100\" height=\"590\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_32WFhscmVqiv\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_22WFhscmjlP6\" vertex=\"1\" modelId=\"actor_2WEvbDPFsEY\"><mxGeometry x=\"33\" y=\"46\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_42WFhscmr2nh\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_22WFhscmjlP6\" vertex=\"1\" modelId=\"actor_2WEv9GIoQTu\"><mxGeometry x=\"32\" y=\"251\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_52WFhscmy5vZ\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_22WFhscmjlP6\" vertex=\"1\" modelId=\"actor_2WETnIK8n1M\"><mxGeometry x=\"38\" y=\"390\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_62WFhscmfa7V\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_2WFdPKEwjrQ\"><mxGeometry x=\"300\" y=\"116\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_72WFhscm2zwp\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFe86oJ6in\"><mxGeometry x=\"220\" y=\"60\" width=\"252\" height=\"590\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_82WFhscmDwMc\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_72WFhscm2zwp\" vertex=\"1\" modelId=\"logicalcomponent_2WFdX1u1wS7\"><mxGeometry x=\"80\" y=\"150\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_92WFhscm32XU\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_72WFhscm2zwp\" vertex=\"1\" modelId=\"logicalcomponent_2WFe35wbZ2q\"><mxGeometry x=\"80\" y=\"261\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_102WFhscmQlhN\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_72WFhscm2zwp\" vertex=\"1\" modelId=\"logicalcomponent_2WFesnlVeSx\"><mxGeometry x=\"80\" y=\"400\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_112WFhscmUGNt\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_32WFhscmVqiv\" target=\"aodenterprise_2WFcd91Beug_62WFhscmfa7V\" edge=\"1\" modelId=\"logicalconnector_2WFefvL0vWu\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_122WFhscmbHx2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_42WFhscmr2nh\" target=\"aodenterprise_2WFcd91Beug_92WFhscm32XU\" edge=\"1\" modelId=\"logicalconnector_2WFehr2UxLA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_132WFhscmPXei\" style=\"rounded=0;html=1;entryX=0;entryY=0.25;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_32WFhscmVqiv\" target=\"aodenterprise_2WFcd91Beug_82WFhscmDwMc\" edge=\"1\" modelId=\"logicalconnector_2WFel3J4GQE\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_142WFhscmxCJW\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_52WFhscmy5vZ\" target=\"aodenterprise_2WFcd91Beug_102WFhscmQlhN\" edge=\"1\" modelId=\"logicalconnector_2WFevNkLnqe\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFeA1zzzHl\"><mxGeometry x=\"485\" y=\"61\" width=\"355\" height=\"409\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_162WFhscm8sNR\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#B9E0A5;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" vertex=\"1\" modelId=\"actor_2WEvugGsvjc\"><mxGeometry x=\"35\" y=\"250\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_172WFhscmdBJC\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" vertex=\"1\" modelId=\"actor_2WEv9j42avA\"><mxGeometry x=\"35\" y=\"139\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_182WFhscmKXi4\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" vertex=\"1\" modelId=\"actor_2WEvcYRkb6M\"><mxGeometry x=\"48\" y=\"49\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_192WFhscmIcdD\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" source=\"aodenterprise_2WFcd91Beug_172WFhscmdBJC\" target=\"aodenterprise_2WFcd91Beug_162WFhscm8sNR\" edge=\"1\" modelId=\"logicalconnector_2WFgPjT2huY\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_202WFhscmScdE\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#B9E0A5;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" vertex=\"1\" modelId=\"actor_2WEvwoVTXl3\"><mxGeometry x=\"35\" y=\"329\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_212WFhscmpRAt\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" source=\"aodenterprise_2WFcd91Beug_162WFhscm8sNR\" target=\"aodenterprise_2WFcd91Beug_202WFhscmScdE\" edge=\"1\" modelId=\"logicalconnector_2WFgQD4x5HP\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_222WFhscmUYHH\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"aodenterprise_2WFcd91Beug_152WFhscmckyz\" vertex=\"1\" modelId=\"actor_2WEvA5aLK7u\"><mxGeometry x=\"205\" y=\"136\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_232WFhscmL6MO\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFCCE6;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFfUBNFefK\"><mxGeometry x=\"485\" y=\"480\" width=\"345\" height=\"170\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_242WFhscmnITl\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFCCE6;\" parent=\"aodenterprise_2WFcd91Beug_232WFhscmL6MO\" vertex=\"1\" modelId=\"actor_2WEwqxm5Thc\"><mxGeometry x=\"35\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_252WFhscmPLMP\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFCCE6;\" parent=\"aodenterprise_2WFcd91Beug_232WFhscmL6MO\" vertex=\"1\" modelId=\"actor_2WEwsdIkwvo\"><mxGeometry x=\"185\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_262WFhscmjsnT\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WF8WnAIoZA\"><mxGeometry x=\"1023\" y=\"341\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_272WFhscmeFZ8\" style=\"rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_62WFhscmfa7V\" target=\"aodenterprise_2WFcd91Beug_182WFhscmKXi4\" edge=\"1\" modelId=\"logicalconnector_2WFgFRHP5NG\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_282WFhscmJnWO\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_82WFhscmDwMc\" target=\"aodenterprise_2WFcd91Beug_182WFhscmKXi4\" edge=\"1\" modelId=\"logicalconnector_2WFgJupf3eQ\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_292WFhscmmhpn\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_92WFhscm32XU\" target=\"aodenterprise_2WFcd91Beug_172WFhscmdBJC\" edge=\"1\" modelId=\"logicalconnector_2WFgKM0pxyT\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_302WFhscmadYS\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#C3ABD0;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEw0A7qeAr\"><mxGeometry x=\"690\" y=\"107\" width=\"120\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_312WFhscmGfiq\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_302WFhscmadYS\" target=\"aodenterprise_2WFcd91Beug_222WFhscmUYHH\" edge=\"1\" modelId=\"logicalconnector_2WFgY9hSE2c\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_322WFhscmTJOV\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_182WFhscmKXi4\" target=\"aodenterprise_2WFcd91Beug_302WFhscmadYS\" edge=\"1\" modelId=\"logicalconnector_2WFh63pDpyl\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_332WFhscmVjKN\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFB570;\" parent=\"1\" vertex=\"1\" modelId=\"actor_2WEvyzjS6l7\"><mxGeometry x=\"980\" y=\"197\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_342WFhscmEjOh\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_222WFhscmUYHH\" target=\"aodenterprise_2WFcd91Beug_332WFhscmVjKN\" edge=\"1\" modelId=\"logicalconnector_2WFgZg1R6MC\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_352WFhscmz5pI\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryPerimeter=0;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_332WFhscmVjKN\" target=\"aodenterprise_2WFcd91Beug_262WFhscmjsnT\" edge=\"1\" modelId=\"logicalconnector_2WFhg8s8x66\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODEnterprise",
+						"_id": "aodenterprise_2WFcd91Beug",
+						"label": "Enterprise view",
+						"description": "",
+						"lastModified": "2021-07-30 16:03:16"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Users",
+						"description": "",
+						"_id": "subsystem_2WFdDmnuC8q",
+						"children": "actor_2WEvbDPFsEY,actor_2WEv9GIoQTu,actor_2WETnIK8n1M"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Channels",
+						"description": "",
+						"_id": "subsystem_2WFe86oJ6in",
+						"children": "logicalcomponent_2WFdPKEwjrQ,logicalcomponent_2WFdX1u1wS7,logicalcomponent_2WFe35wbZ2q,logicalcomponent_2WFesnlVeSx"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Backend Services",
+						"description": "",
+						"_id": "subsystem_2WFeA1zzzHl",
+						"children": "actor_2WEvugGsvjc,actor_2WEv9j42avA,actor_2WEvcYRkb6M,actor_2WEvwoVTXl3,actor_2WEvA5aLK7u,actor_2WEw0A7qeAr"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Security Services",
+						"description": "",
+						"_id": "subsystem_2WFfUBNFefK",
+						"children": "actor_2WEwqxm5Thc,actor_2WEwsdIkwvo"
+					}
+				]
+			},
+			"aoditsystem_2XkCcOfnYPe": {
+				"uiInfo": "<mxGraphModel dx=\"1785\" dy=\"940\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aoditsystem_2XkCcOfnYPe\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aoditsystem_2XkCcOfnYPe_22XkW37BFXj4\" style=\"whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"location_2XkIiPvGMGL\"><mxGeometry x=\"20\" y=\"20\" width=\"1140\" height=\"780\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_32XkW37BqR11\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;imageBackground=#ffffff;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkIkqgBmxy\"><mxGeometry x=\"154\" y=\"250\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_42XkW37BgaEU\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/device.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkInPZXyf3\"><mxGeometry x=\"40\" y=\"250\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_52XkW37BpQSX\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/gateway.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJ2twDaqR\"><mxGeometry x=\"294\" y=\"250\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_62XkW37Bmc4B\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/application logic.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJbdgonfw\"><mxGeometry x=\"417\" y=\"250\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_72XkW37B3nWX\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/application logic.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJeEqixjn\"><mxGeometry x=\"417\" y=\"390\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_82XkW37Bn2S0\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJi7HSxuK\"><mxGeometry x=\"417\" y=\"110\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_92XkW37BQmT5\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/security services.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJmSHWwLY\"><mxGeometry x=\"220\" y=\"330\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_102XkW37BKHG3\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJpuizxJZ\"><mxGeometry x=\"837\" y=\"474\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_112XkW37BKBba\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/api/FileManagerAPIs/containers/cafiles/files/file_48813c401c3c06a4.png;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkMuOsoyir\"><mxGeometry x=\"834\" y=\"609\" width=\"65\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_122XkW37ByfMD\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/api/FileManagerAPIs/containers/cafiles/files/file_5aa7cb8326bd164f.png;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkMZNXgjve\"><mxGeometry x=\"1068\" y=\"609\" width=\"65\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_132XkW37BNmpv\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/api/FileManagerAPIs/containers/cafiles/files/file_32de50e12e471afa.png;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkO2Wpeoag\"><mxGeometry x=\"948\" y=\"609\" width=\"65\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_142XkW37BIV3G\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/api/FileManagerAPIs/containers/cafiles/files/file_32de50e12e471afa.png;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkOeDhLirc\"><mxGeometry x=\"723\" y=\"609\" width=\"65\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_152XkW37Bv0c6\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/security services.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkOhxdDHkh\"><mxGeometry x=\"777\" y=\"710\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_162XkW37BnMYo\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/infrastructure services/event feed.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkOXIA39oA\"><mxGeometry x=\"607\" y=\"612\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_172XkW37BfGxb\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_42XkW37BgaEU\" target=\"aoditsystem_2XkCcOfnYPe_32XkW37BqR11\" edge=\"1\" modelId=\"logicalconnection_2XkP55jXOc0\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_182XkW37CjWgX\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_32XkW37BqR11\" target=\"aoditsystem_2XkCcOfnYPe_52XkW37BpQSX\" edge=\"1\" modelId=\"logicalconnection_2XkP6yTLzar\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_192XkW37Cgae3\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_52XkW37BpQSX\" target=\"aoditsystem_2XkCcOfnYPe_62XkW37Bmc4B\" edge=\"1\" modelId=\"logicalconnection_2XkP7kFWSEs\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_202XkW37Ct9jA\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_62XkW37Bmc4B\" target=\"aoditsystem_2XkCcOfnYPe_72XkW37B3nWX\" edge=\"1\" modelId=\"logicalconnection_2XkPcf26INP\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_212XkW37CMXx3\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_32XkW37BqR11\" target=\"aoditsystem_2XkCcOfnYPe_82XkW37Bn2S0\" edge=\"1\" modelId=\"logicalconnection_2XkPq5AJOLg\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"184\" y=\"140\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_222XkW37CBfYO\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/application logic.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkPuodH5eD\"><mxGeometry x=\"837\" y=\"170\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_232XkW37C3lAH\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/gateway.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkPzOA9GWH\"><mxGeometry x=\"837\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_242XkW37Cy5tQ\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkPTpnlhww\"><mxGeometry x=\"607\" y=\"474\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_252XkW37ChYok\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkPXlRyEIZ\"><mxGeometry x=\"607\" y=\"265\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_262XkW37CKOJm\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_72XkW37B3nWX\" target=\"aoditsystem_2XkCcOfnYPe_242XkW37Cy5tQ\" edge=\"1\" modelId=\"logicalconnection_2XkQ3C7utAr\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"540\" y=\"420\"/><mxPoint x=\"540\" y=\"504\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_272XkW37CSmeS\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.25;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_62XkW37Bmc4B\" target=\"aoditsystem_2XkCcOfnYPe_252XkW37ChYok\" edge=\"1\" modelId=\"logicalconnection_2XkQcEJinC0\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_282XkW37CAh93\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.75;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_72XkW37B3nWX\" target=\"aoditsystem_2XkCcOfnYPe_252XkW37ChYok\" edge=\"1\" modelId=\"logicalconnection_2XkQhQ9D4vs\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"540\" y=\"420\"/><mxPoint x=\"540\" y=\"310\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_292XkW37CH3Sh\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_112XkW37BKBba\" target=\"aoditsystem_2XkCcOfnYPe_132XkW37BNmpv\" edge=\"1\" modelId=\"logicalconnection_2XkQtZs47qa\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_302XkW37C6P4o\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;startArrow=classic;startFill=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_132XkW37BNmpv\" target=\"aoditsystem_2XkCcOfnYPe_122XkW37ByfMD\" edge=\"1\" modelId=\"logicalconnection_2XkQweNdZPn\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_312XkW37C5j0A\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_102XkW37BKHG3\" target=\"aoditsystem_2XkCcOfnYPe_242XkW37Cy5tQ\" edge=\"1\" modelId=\"logicalconnection_2XkQxQSW6Xg\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_322XkW37C3DRv\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_102XkW37BKHG3\" target=\"aoditsystem_2XkCcOfnYPe_232XkW37C3lAH\" edge=\"1\" modelId=\"logicalconnection_2XkQAMLXMLF\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"867\" y=\"420\" as=\"targetPoint\"/><Array as=\"points\"><mxPoint x=\"867\" y=\"430\"/><mxPoint x=\"867\" y=\"430\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_332XkW37Cg6rV\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0;exitY=0.5;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_232XkW37C3lAH\" target=\"aoditsystem_2XkCcOfnYPe_242XkW37Cy5tQ\" edge=\"1\" modelId=\"logicalconnection_2XkQIUoIbIs\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"638\" y=\"390\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_342XkW37CYNHt\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_162XkW37BnMYo\" target=\"aoditsystem_2XkCcOfnYPe_242XkW37Cy5tQ\" edge=\"1\" modelId=\"logicalconnection_2XkQUycxfg2\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_352XkW37CC8cQ\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_162XkW37BnMYo\" target=\"aoditsystem_2XkCcOfnYPe_142XkW37BIV3G\" edge=\"1\" modelId=\"logicalconnection_2XkRhMiNyay\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_362XkW37CgDhc\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_142XkW37BIV3G\" target=\"aoditsystem_2XkCcOfnYPe_112XkW37BKBba\" edge=\"1\" modelId=\"logicalconnection_2XkRipfna4L\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_372XkW37CuUWK\" style=\"endArrow=classic;html=1;exitX=0.5;exitY=0;entryX=1;entryY=0.5;edgeStyle=orthogonalEdgeStyle;rounded=0;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_132XkW37BNmpv\" target=\"aoditsystem_2XkCcOfnYPe_232XkW37C3lAH\" edge=\"1\" modelId=\"logicalconnection_2XkRDwYYUqh\"><mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"><mxPoint x=\"983\" y=\"499\" as=\"sourcePoint\"/><mxPoint x=\"1033\" y=\"449\" as=\"targetPoint\"/><Array as=\"points\"><mxPoint x=\"980\" y=\"390\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_382XkW37CXWRQ\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=classic;startFill=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_102XkW37BKHG3\" target=\"aoditsystem_2XkCcOfnYPe_112XkW37BKBba\" edge=\"1\" modelId=\"logicalconnection_2XkRZMjO3GR\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_392XkW37C02XL\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aoditsystem_2XkCcOfnYPe_232XkW37C3lAH\" target=\"aoditsystem_2XkCcOfnYPe_222XkW37CBfYO\" edge=\"1\" modelId=\"logicalconnection_2XkSmnPG3jL\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_402XkW37CiEaD\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/security services.svg;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJmSHWwLY\"><mxGeometry x=\"897\" y=\"270\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_2XkCcOfnYPe_412XkW37COV6J\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/security services.svg;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_2XkJmSHWwLY\"><mxGeometry x=\"1009\" y=\"705\" width=\"60\" height=\"59\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODITSystem",
+						"_id": "aoditsystem_2XkCcOfnYPe",
+						"label": "ECC AOD System View",
+						"description": "",
+						"lastModified": "2021-08-06 19:07:11"
+					},
+					{
+						"modelType": "Location",
+						"label": "EVV",
+						"description": "",
+						"_id": "location_2XkIiPvGMGL",
+						"children": "logicalnode_2XkIkqgBmxy,logicalnode_2XkInPZXyf3,logicalnode_2XkJ2twDaqR,logicalnode_2XkJbdgonfw,logicalnode_2XkJeEqixjn,logicalnode_2XkJi7HSxuK,logicalnode_2XkJmSHWwLY,logicalnode_2XkJpuizxJZ,logicalnode_2XkMuOsoyir,logicalnode_2XkO2Wpeoag,logicalnode_2XkOeDhLirc,logicalnode_2XkOhxdDHkh,logicalnode_2XkOXIA39oA,logicalnode_2XkPuodH5eD,logicalnode_2XkPzOA9GWH,logicalnode_2XkPTpnlhww,logicalnode_2XkPXlRyEIZ,logicalnode_2XkMZNXgjve,logicalconnection_2XkRDwYYUqh"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkP55jXOc0",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkP6yTLzar",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkP7kFWSEs",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkPcf26INP",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkPq5AJOLg",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQ3C7utAr",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQcEJinC0",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQhQ9D4vs",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQtZs47qa",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQweNdZPn",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQxQSW6Xg",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQAMLXMLF",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQIUoIbIs",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkQUycxfg2",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkRhMiNyay",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkRipfna4L",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkRDwYYUqh",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkRZMjO3GR",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_2XkSmnPG3jL",
+						"flowType": "not specified"
+					}
+				]
+			},
+			"aodenterprise_2WFcd91Beug_2XkXL3g7szA": {
+				"uiInfo": "<mxGraphModel dx=\"1484\" dy=\"783\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_236zh4t0xBZB\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFD966;startSize=23;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFdDmnuC8q_2XkXL3g7szA\"><mxGeometry x=\"90\" y=\"60\" width=\"100\" height=\"370\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_336zh4t0RJKG\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_236zh4t0xBZB\" vertex=\"1\" modelId=\"actor_2WEvbDPFsEY\"><mxGeometry x=\"33\" y=\"46\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_436zh4t00bIu\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_236zh4t0xBZB\" vertex=\"1\" modelId=\"actor_2WEv9GIoQTu\"><mxGeometry x=\"32\" y=\"251\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_536zh4t0gE3K\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_2WFdPKEwjrQ\"><mxGeometry x=\"300\" y=\"116\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFe86oJ6in_2XkXL3g7szA\"><mxGeometry x=\"220\" y=\"60\" width=\"252\" height=\"540\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_736zh4t0HmQ7\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" vertex=\"1\" modelId=\"logicalcomponent_2WFdX1u1wS7\"><mxGeometry x=\"80\" y=\"150\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_836zh4t0Kj9l\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" vertex=\"1\" modelId=\"logicalcomponent_2WFe35wbZ2q\"><mxGeometry x=\"80\" y=\"261\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_936zh4t0pwkH\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/aodenterprise/channel.svg;fillColor=#FFFFCC;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" vertex=\"1\" modelId=\"logicalcomponent_2WFesnlVeSx\"><mxGeometry x=\"80\" y=\"430\" width=\"72\" height=\"50\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1036zh4t0BOLY\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFD966;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" vertex=\"1\" modelId=\"subsystem_2Xl2yEN5zNU\"><mxGeometry x=\"-130\" y=\"385\" width=\"100\" height=\"155\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1136zh4t0gYT7\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1036zh4t0BOLY\" vertex=\"1\" modelId=\"actor_2WETnIK8n1M\"><mxGeometry x=\"38\" y=\"35\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1236zh4t09wPj\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_636zh4t0C1tC\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1136zh4t0gYT7\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_936zh4t0pwkH\" edge=\"1\" modelId=\"logicalconnector_2WFevNkLnqe_2XkXL3g7szA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1336zh4t0mN3U\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_336zh4t0RJKG\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_536zh4t0gE3K\" edge=\"1\" modelId=\"logicalconnector_2WFefvL0vWu_2XkXL3g7szA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1436zh4t0V5xH\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_436zh4t00bIu\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_836zh4t0Kj9l\" edge=\"1\" modelId=\"logicalconnector_2WFehr2UxLA_2XkXL3g7szA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1536zh4t0NOhr\" style=\"rounded=0;html=1;entryX=0;entryY=0.25;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_336zh4t0RJKG\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_736zh4t0HmQ7\" edge=\"1\" modelId=\"logicalconnector_2WFel3J4GQE_2XkXL3g7szA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#FFF4C3;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2WFeA1zzzHl_2XkXL3g7szA\"><mxGeometry x=\"485\" y=\"61\" width=\"205\" height=\"539\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1736zh4t0X9uu\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" vertex=\"1\" modelId=\"logicalcomponent_2XkYmDSUXqM\"><mxGeometry x=\"43\" y=\"255\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1936zh4t1drzZ\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" vertex=\"1\" modelId=\"logicalcomponent_2XkYpR8BtCy\"><mxGeometry x=\"40\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2036zh4t1ZlsZ\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" vertex=\"1\" modelId=\"logicalcomponent_2XkYrqgSQQh\"><mxGeometry x=\"43\" y=\"419\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2136zh4t1HGGh\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4C3;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" vertex=\"1\" modelId=\"logicalcomponent_2XkYxe3jPAD\"><mxGeometry x=\"40\" y=\"144\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2336zh4t1X5EB\" style=\"rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_836zh4t0Kj9l\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1736zh4t0X9uu\" edge=\"1\" modelId=\"logicalconnector_2XkYwl7sNv4\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2436zh4t1OdP7\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_536zh4t0gE3K\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1936zh4t1drzZ\" edge=\"1\" modelId=\"logicalconnector_2XkYFwiPvJA\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2536zh4t15Cg7\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_736zh4t0HmQ7\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2136zh4t1HGGh\" edge=\"1\" modelId=\"logicalconnector_2XkYHE7DPj7\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2636zh4t1KKfL\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#A9C4EB;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2XkYT7eZH6d\"><mxGeometry x=\"732\" y=\"61\" width=\"170\" height=\"340\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2736zh4t15PLB\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2636zh4t1KKfL\" vertex=\"1\" modelId=\"logicalcomponent_2XkYZvD9UbI\"><mxGeometry x=\"25\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2836zh4t1HhLD\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2636zh4t1KKfL\" vertex=\"1\" modelId=\"logicalcomponent_2XkZ02TK09n\"><mxGeometry x=\"25\" y=\"155\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_13136zhaMmVMtE\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2636zh4t1KKfL\" vertex=\"1\" modelId=\"logicalcomponent_36zhaMnBnGk\"><mxGeometry x=\"25\" y=\"250\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2936zh4t1bydw\" style=\"swimlane;whiteSpace=wrap;html=1;align=left;swimlaneLine=0;verticalAlign=top;collapsible=0;fillColor=#E6D0DE;\" parent=\"1\" vertex=\"1\" modelId=\"subsystem_2XkYW6sP1Et\"><mxGeometry x=\"732\" y=\"414\" width=\"170\" height=\"185\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_3036zh4t1WTuj\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#E6D0DE;\" parent=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2936zh4t1bydw\" vertex=\"1\" modelId=\"logicalcomponent_2XkZ0wC28kj\"><mxGeometry x=\"20\" y=\"66\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_3136zh4t18rlv\" style=\"edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2036zh4t1ZlsZ\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_3036zh4t1WTuj\" edge=\"1\" modelId=\"logicalconnector_2XkZu9uWyKD\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_3236zh4t1BZtM\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;exitX=1;exitY=0.25;\" parent=\"1\" source=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_1636zh4t0sDc7\" target=\"aodenterprise_2WFcd91Beug_2XkXL3g7szA_2636zh4t1KKfL\" edge=\"1\" modelId=\"logicalconnector_2XkZLvNSW7B\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"700\" y=\"210\" as=\"sourcePoint\"/><mxPoint x=\"740\" y=\"231\" as=\"targetPoint\"/><Array as=\"points\"><mxPoint x=\"690\" y=\"231\"/></Array></mxGeometry></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODEnterprise",
+						"_id": "aodenterprise_2WFcd91Beug_2XkXL3g7szA",
+						"label": "Enterprise View V2",
+						"description": "",
+						"lastModified": "2021-11-12 16:52:07"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Users",
+						"description": "",
+						"_id": "subsystem_2WFdDmnuC8q_2XkXL3g7szA",
+						"children": "actor_2WEvbDPFsEY,actor_2WEv9GIoQTu"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Channels",
+						"description": "",
+						"_id": "subsystem_2WFe86oJ6in_2XkXL3g7szA",
+						"children": "logicalcomponent_2WFdPKEwjrQ,logicalcomponent_2WFdX1u1wS7,logicalcomponent_2WFe35wbZ2q,logicalcomponent_2WFesnlVeSx"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Staff",
+						"description": "",
+						"_id": "subsystem_2Xl2yEN5zNU",
+						"children": "actor_2WETnIK8n1M"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Application Services",
+						"description": "",
+						"_id": "subsystem_2WFeA1zzzHl_2XkXL3g7szA",
+						"children": "logicalcomponent_2XkYmDSUXqM,logicalcomponent_2XkYpR8BtCy,logicalcomponent_2XkYrqgSQQh,logicalcomponent_2XkYxe3jPAD"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "Data Services",
+						"description": "",
+						"_id": "subsystem_2XkYT7eZH6d",
+						"children": "logicalcomponent_2XkYZvD9UbI,logicalcomponent_2XkZ02TK09n,logicalcomponent_36zhaMnBnGk"
+					},
+					{
+						"modelType": "SubSystem",
+						"label": "External Services",
+						"description": "",
+						"_id": "subsystem_2XkYW6sP1Et",
+						"children": "logicalcomponent_2XkZ0wC28kj"
+					}
+				]
+			}
+		}
+	},
+	"combined": {
+		"coreInfo": [
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rM50eS",
+				"category": "Security-Zone",
+				"label": "none",
+				"description": "Either the security controls have not been specified or cannot be controlled.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rNwQES",
+				"category": "Security-Zone",
+				"label": "trusted",
+				"description": "Trusted security zone, all traffic and access is by known and trusted parties.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rN9g5O",
+				"category": "Security-Zone",
+				"label": "dmz",
+				"description": "Direct access to un-trusted network, no sensitive data. Controlled access to trusted zone.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rN1tPC",
+				"category": "Security-Zone",
+				"label": "un-trusted",
+				"description": "Untrusted traffic, often public networks.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rN3SKp",
+				"category": "Management-Zone",
+				"label": "none",
+				"description": "Unmanaged entity.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rNSSPK",
+				"category": "Management-Zone",
+				"label": "full",
+				"description": "Fully managed.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rNW8JR",
+				"category": "Management-Zone",
+				"label": "limited",
+				"description": "Partially managed.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rNKnLw",
+				"category": "Management-Zone",
+				"label": "no direct",
+				"description": "No direct management.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rNExUC",
+				"category": "HA-Mode",
+				"label": "active",
+				"description": "High availability replica actively handling workload.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rOQ8Vh",
+				"category": "HA-Mode",
+				"label": "passive",
+				"description": "High availability replica not handling active workload.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rOMytw",
+				"category": "Transition-Elements",
+				"label": "unchanged",
+				"description": "Element unchanged in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rO3UE9",
+				"category": "Transition-Elements",
+				"label": "updated",
+				"description": "Element is modified or updated in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rOfjRa",
+				"category": "Transition-Elements",
+				"label": "removed",
+				"description": "Element being removed in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rOUKqd",
+				"category": "Transition-Elements",
+				"label": "added",
+				"description": "Element being added in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WEv6rOTHEu",
+				"category": "Transition-Elements",
+				"label": "planned",
+				"description": "Element is being planned for some future phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "Actor",
+				"label": "EVV WebApp",
+				"description": "It is the server side application hosting the PWA.",
+				"_id": "actor_2WEv9j42avA",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "EVV User",
+				"description": "It is the main end user of this solution. It refers to the Clinician (or similar role) that visits patients at home or any other location in which is assumed to have poor or no connectivity at all. This user will interact with the application through a mobile web progressive application in an offline first approach.",
+				"_id": "actor_2WEv9GIoQTu",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "EVV Supervisor",
+				"description": "This actor is responsible for fixing Visits data before sending to the state (through CellTrak). All errors will be shown in the \"Error Dashboard\" inside CareLogic,",
+				"_id": "actor_2WEvbDPFsEY",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "CareLogic Web",
+				"description": "It is the main CareLogic application. It will expose a dashboard provided by Decisions so that EVV Supervisors can fix visits data. CareLogic Web will also be used to configure Service Documents and Appointments as usual.",
+				"_id": "actor_2WEvcYRkb6M",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "CareLogic Mobile",
+				"description": "As part of this solution we are using the Sync API and the Batch Component that interact with the CareLogic Mobile Application. Any changes that we make to these components could impact the CareLogic Mobile App and should be evaluated as such.",
+				"_id": "actor_2WEvqJ1JjO1",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Sync API",
+				"description": "It is the API that provides synchronization services, that is, the capability of moving data from the device to the servers and vice versa so that users can work offline. Data going from the device to the servers through this API will end up in a NoSql database used as \"staging area\".",
+				"_id": "actor_2WEvugGsvjc",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "QSI Batch",
+				"description": "This component is in charge of moving data from the \"staging area\" (updated by Sync API)  to the corresponding tables in Oracle and Form.io.",
+				"_id": "actor_2WEvwoVTXl3",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "CellTrak",
+				"description": "It is a third party service that will collect all data from the visits and will format it and eventually send the data up to each state for verification. It serves as a façade between QSI systems and the states.",
+				"_id": "actor_2WEvyzjS6l7",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Integration EVV",
+				"description": "It is an integration platform that provides messaging and middleware capabilities. It is the hub that will be used as an intermediary between QSI internal systems and external systems like CellTrak. ",
+				"_id": "actor_2WEvA5aLK7u",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Form.IO",
+				"description": "Third party product used as a forming solution. Capable of creating forms that will be embedded in the mobile PWA.",
+				"_id": "actor_2WEvI7MJpb3",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Mobile Devices",
+				"description": "It is the physical mobile device in which the PWA will execute. Devices include iOS and Android running Safari and Chrome.",
+				"_id": "actor_2WEvWnbM442",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Decisions",
+				"description": "Decisions will provide Rules Engines and BPM capabilities. Rules will be used to validate visits data and in case of errors, these will be shown in a dashboard exposed through CareLogic Web. If visits data is correct, it will be sent to CellTrak data aggregator.",
+				"_id": "actor_2WEw0A7qeAr",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "API Mobile",
+				"description": "It is a security gateway and the only entry point between client applications to consume backend services.",
+				"_id": "actor_2WEwqxm5Thc",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "IAM Server",
+				"description": "Server providing Oauth2 Capabilities. Used for authentication / authorization. We will use both, \"Client Credentials\" and \"Authorization Code\" workflows in this solution. At the writing of this document, we have Spring Security Server in place but a project to replace with PingIdentity is on-going. Part of this document will list future concerns that could impact this solution but that might not have an answer yet.",
+				"_id": "actor_2WEwsdIkwvo",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Form Builders",
+				"description": "This actor is the main responsible for creating the forms in form.io and eventually expose them in the EVV WebApp",
+				"_id": "actor_2WETnIK8n1M",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "States",
+				"description": "This actor represents each of the states (government) that will verify our visit data. We have no direct connection with them but are still an important part of the solution. Any changes or regulations they make can impact our system.",
+				"_id": "actor_2WF8WnAIoZA",
+				"type": "Human"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WFdEOHsP23",
+				"category": "SubSystem",
+				"label": "Users",
+				"description": "This group is derived from SubSystem named Users.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "CareLogic Web / Dashboard",
+				"description": "",
+				"_id": "logicalcomponent_2WFdPKEwjrQ",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "CareLogic Web&nbsp;",
+				"description": "",
+				"_id": "logicalcomponent_2WFdX1u1wS7",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Evv Web PWA",
+				"description": "",
+				"_id": "logicalcomponent_2WFe35wbZ2q",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Form.io Portal",
+				"description": "",
+				"_id": "logicalcomponent_2WFesnlVeSx",
+				"level": "Application"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WFea13qyrP",
+				"category": "SubSystem",
+				"label": "Channels",
+				"description": "This group is derived from SubSystem named Channels.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFefvL0vWu"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFehr2UxLA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFel3J4GQE"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFevNkLnqe"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WFeDEH5Qkd",
+				"category": "SubSystem",
+				"label": "Backend Services",
+				"description": "This group is derived from SubSystem named Backend Services.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgPjT2huY"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgQD4x5HP"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2WFfVuNwH0W",
+				"category": "SubSystem",
+				"label": "Security Services",
+				"description": "This group is derived from SubSystem named Security Services.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgFRHP5NG"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgJupf3eQ"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgKM0pxyT"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgY9hSE2c"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFh63pDpyl"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgZg1R6MC"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFhg8s8x66"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Kafka",
+				"description": "Decisions will provide Rules Engines and BPM capabilities. Rules will be used to validate visits data and in case of errors, these will be shown in a dashboard exposed through CareLogic Web. If visits data is correct, it will be sent to CellTrak data aggregator.",
+				"_id": "actor_2Xf2SmuWBiP",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Kerberos",
+				"description": "Decisions will provide Rules Engines and BPM capabilities. Rules will be used to validate visits data and in case of errors, these will be shown in a dashboard exposed through CareLogic Web. If visits data is correct, it will be sent to CellTrak data aggregator.",
+				"_id": "actor_2Xf2Uc6whkb",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "SharePlex",
+				"description": "",
+				"_id": "actor_2XfcU9Zr6bK",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "RabbitMQ",
+				"description": "It is a component currently used by Sync Api to move data b",
+				"_id": "actor_2Xfd1CInedM",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Oracle DB",
+				"description": "Relational Database used to store CareLogic data. The same data will be used in EVV.",
+				"_id": "actor_2XfdwIH3y7T",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "MongoDB",
+				"description": "Stating Database to store data being moved from the device to the backend servers. It is also used to store audit traails.",
+				"_id": "actor_2XiV8PhEYQZ",
+				"type": "IT System"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "EVV PWA",
+				"description": "",
+				"_id": "logicalnode_2XkIkqgBmxy",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Mobile Devices",
+				"description": "",
+				"_id": "logicalnode_2XkInPZXyf3",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/users/device.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "API Mobile",
+				"description": "",
+				"_id": "logicalnode_2XkJ2twDaqR",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/gateway.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Mobile Sync",
+				"description": "",
+				"_id": "logicalnode_2XkJbdgonfw",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/application logic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "QSI Batch",
+				"description": "",
+				"_id": "logicalnode_2XkJeEqixjn",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/application logic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Form.IO",
+				"description": "",
+				"_id": "logicalnode_2XkJi7HSxuK",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Oauth Server",
+				"description": "",
+				"_id": "logicalnode_2XkJmSHWwLY",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/security services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "CareLogic Web App",
+				"description": "",
+				"_id": "logicalnode_2XkJpuizxJZ",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Decisions",
+				"description": "",
+				"_id": "logicalnode_2XkMuOsoyir",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/others/generic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "CellTrak",
+				"description": "",
+				"_id": "logicalnode_2XkMZNXgjve",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/others/generic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "CIH Mirth",
+				"description": "",
+				"_id": "logicalnode_2XkO2Wpeoag",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/others/generic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Kafka",
+				"description": "",
+				"_id": "logicalnode_2XkOeDhLirc",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/others/generic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Kerberos",
+				"description": "",
+				"_id": "logicalnode_2XkOhxdDHkh",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/security services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "SharePlex",
+				"description": "",
+				"_id": "logicalnode_2XkOXIA39oA",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/infrastructure services/event feed.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "CareLogic Domains",
+				"description": "",
+				"_id": "logicalnode_2XkPuodH5eD",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/application logic.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "API Gateway",
+				"description": "",
+				"_id": "logicalnode_2XkPzOA9GWH",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/gateway.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Oracle",
+				"description": "",
+				"_id": "logicalnode_2XkPTpnlhww",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "MongoDB",
+				"description": "",
+				"_id": "logicalnode_2XkPXlRyEIZ",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFefvL0vWu_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFehr2UxLA_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFel3J4GQE_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFevNkLnqe_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgPjT2huY_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgQD4x5HP_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgFRHP5NG_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgJupf3eQ_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgKM0pxyT_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgY9hSE2c_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFh63pDpyl_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFgZg1R6MC_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2WFhg8s8x66_2XkXL3g7szA"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Sync Services",
+				"description": "",
+				"_id": "logicalcomponent_2XkYmDSUXqM",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Batch Services",
+				"description": "",
+				"_id": "logicalcomponent_2XkYoooY94P",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Rules Services",
+				"description": "",
+				"_id": "logicalcomponent_2XkYpR8BtCy",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Integration Services",
+				"description": "",
+				"_id": "logicalcomponent_2XkYrqgSQQh",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "CareLogic Services",
+				"description": "",
+				"_id": "logicalcomponent_2XkYxe3jPAD",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkZc95nB6l"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2XkY00YWoLQ",
+				"category": "SubSystem",
+				"label": "Application Services",
+				"description": "This group is derived from SubSystem named Application Services.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkYwl7sNv4"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkYFwiPvJA"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkYHE7DPj7"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Oracle Databases",
+				"description": "",
+				"_id": "logicalcomponent_2XkYZvD9UbI",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "MongoDB",
+				"description": "",
+				"_id": "logicalcomponent_2XkZ02TK09n",
+				"level": "Application"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2XkYUjTWnnQ",
+				"category": "SubSystem",
+				"label": "Data Services",
+				"description": "This group is derived from SubSystem named Data Services.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "CellTrak",
+				"description": "",
+				"_id": "logicalcomponent_2XkZ0wC28kj",
+				"level": "Application"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2XkYXrQq5Gx",
+				"category": "SubSystem",
+				"label": "External Services",
+				"description": "This group is derived from SubSystem named External Services.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkZu9uWyKD"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_2XkZLvNSW7B"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_2Xl2zryO3F8",
+				"category": "SubSystem",
+				"label": "Staff",
+				"description": "This group is derived from SubSystem named Staff.",
+				"type": "Auto-Generated"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "AWS Bucket",
+				"description": "",
+				"_id": "logicalcomponent_36zhaMnBnGk",
+				"level": "Application"
+			}
+		]
+	}
+}

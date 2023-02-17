@@ -1,0 +1,75 @@
+{
+	"appVersion": "3.9.0",
+	"schemaVersion": "1.4",
+	"owner": {
+		"username": null,
+		"fullname": null,
+		"email": null
+	},
+	"template": {
+		"description": "Default ToC",
+		"isGlobalDefaultTemplate": true,
+		"name": "Solution Architecture Template",
+		"_id": "template_company_ibm"
+	},
+	"geography": [],
+	"businessUnit": [],
+	"includedArtifacts": [
+		{
+			"type": "Business Challenge",
+			"typeId": "assetartifact_businesschallenge",
+			"_id": "assetartifact_businesschallenge"
+		},
+		{
+			"type": "System Context",
+			"typeId": "assetartifact_systemcontext",
+			"_id": "assetartifact_systemcontext"
+		},
+		{
+			"type": "Functional Requirements",
+			"typeId": "assetartifact_functionalrequirement",
+			"_id": "assetartifact_functionalrequirement"
+		},
+		{
+			"type": "Non Functional Requirements",
+			"typeId": "assetartifact_nonfunctionalrequirement",
+			"_id": "assetartifact_nonfunctionalrequirement"
+		},
+		{
+			"type": "IT System View",
+			"typeId": "assetartifact_architectureoverview_itsystem",
+			"_id": "assetartifact_architectureoverview_itsystem"
+		},
+		{
+			"type": "Usage Scenario",
+			"typeId": "assetartifact_architectureoverview_usagescenario",
+			"_id": "assetartifact_architectureoverview_usagescenario"
+		},
+		{
+			"type": "Static View",
+			"typeId": "assetartifact_componentmodel_staticview",
+			"_id": "assetartifact_componentmodel_staticview"
+		},
+		{
+			"type": "Logical Operational View",
+			"typeId": "assetartifact_operationalmodel_logicaloperational",
+			"_id": "assetartifact_operationalmodel_logicaloperational"
+		}
+	],
+	"industry": [],
+	"technology": [],
+	"technicalCapability": [],
+	"businessCapability": [],
+	"executiveSummary": "",
+	"tag": [],
+	"name": "OTP",
+	"_id": "arch_3BdNYoZuVxJ",
+	"status": "Pending",
+	"type": "Solution",
+	"created": null,
+	"numOfCopied": 0,
+	"lastModified": "2023-02-01 15:59:20",
+	"clientName": "",
+	"salesConnectNum": "",
+	"taxonomies": []
+}

@@ -1,0 +1,50 @@
+{
+	"appVersion": "3.2.2",
+	"schemaVersion": "1.4",
+	"owner": {
+		"username": null,
+		"fullname": null,
+		"email": null
+	},
+	"template": {
+		"description": "Default ToC",
+		"isGlobalDefaultTemplate": true,
+		"name": "Solution Architecture Template",
+		"_id": "template_company_ibm"
+	},
+	"geography": [],
+	"businessUnit": [],
+	"includedArtifacts": [
+		{
+			"type": "System Context",
+			"typeId": "assetartifact_systemcontext",
+			"_id": "assetartifact_systemcontext"
+		},
+		{
+			"type": "Enterprise View",
+			"typeId": "assetartifact_architectureoverview_enterprise",
+			"_id": "assetartifact_architectureoverview_enterprise"
+		},
+		{
+			"type": "IT System View",
+			"typeId": "assetartifact_architectureoverview_itsystem",
+			"_id": "assetartifact_architectureoverview_itsystem"
+		}
+	],
+	"industry": [],
+	"technology": [],
+	"technicalCapability": [],
+	"businessCapability": [],
+	"executiveSummary": "",
+	"tag": [],
+	"name": "EVV",
+	"_id": "arch_2WEv5S4W5he",
+	"status": "Pending",
+	"type": "Solution",
+	"created": null,
+	"numOfCopied": 0,
+	"lastModified": "2021-11-16 15:39:04",
+	"clientName": "",
+	"salesConnectNum": "",
+	"taxonomies": []
+}

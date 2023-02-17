@@ -1,0 +1,1665 @@
+{
+	"toc": [
+		{
+			"globalTOCPosition": "1",
+			"artifactTypeName": "Overview",
+			"artifactType": "assetartifact_executivesummary",
+			"displayName": "Overview",
+			"format": "text",
+			"typeId": "1",
+			"_id": "artifacttype_9edbd406-69fb-3a95-8b2e-58a0974b2710",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"globalTOCPosition": "2",
+			"parentGroup": "",
+			"_id": "artifactgroup_7dc829db-0746-3ddc-816c-d07338d4eebf",
+			"displayName": "Scope",
+			"child": [
+				{
+					"artifactTypeName": "Business Challenge",
+					"globalTOCPosition": "2.1",
+					"artifactType": "assetartifact_businesschallenge",
+					"displayName": "Business Challenge",
+					"format": "text",
+					"typeId": "2.1",
+					"_id": "artifacttype_d1ab4a95-e05f-3882-9f19-6500fc0d3b2b",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "2.2",
+					"artifactTypeName": "System Context",
+					"artifactType": "assetartifact_systemcontext",
+					"displayName": "System Context",
+					"format": "diagram",
+					"typeId": "2.2",
+					"_id": "artifacttype_8ca70362-e3d1-3b9c-91d1-f755d029a2e3",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "3",
+			"parentGroup": "",
+			"_id": "artifactgroup_3b8700e6-c854-3ec9-af0e-9b2e600721ce",
+			"displayName": "Requirement",
+			"child": [
+				{
+					"globalTOCPosition": "3.1",
+					"parentGroup": "artifactgroup_3b8700e6-c854-3ec9-af0e-9b2e600721ce",
+					"_id": "artifactgroup_6e299154-751f-36ee-acb2-145c8af87481",
+					"displayName": "Use Case Model",
+					"child": [
+						{
+							"artifactTypeName": "Use Case Diagram",
+							"globalTOCPosition": "3.1.1",
+							"artifactType": "assetartifact_usecase_ucdiagram",
+							"displayName": "Use Case Diagram",
+							"format": "diagram",
+							"typeId": "3.1.1",
+							"_id": "artifacttype_cde39d5e-c892-3093-ab3d-bad448acb8a0",
+							"hasContent": false
+						},
+						{
+							"globalTOCPosition": "3.1.2",
+							"artifactTypeName": "Use Case",
+							"artifactType": "assetartifact_usecase_uctext",
+							"displayName": "Use Case",
+							"format": "text",
+							"typeId": "3.1.2",
+							"_id": "artifacttype_dde4b71c-82db-3f66-964a-3a04fbf56dff",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"artifactTypeName": "Functional Requirements",
+					"globalTOCPosition": "3.2",
+					"artifactType": "assetartifact_functionalrequirement",
+					"displayName": "Functional Requirements",
+					"format": "text",
+					"typeId": "3.2",
+					"_id": "artifacttype_12eefe0a-435b-3176-8bbe-4dc928a2e4c3",
+					"hasContent": false
+				},
+				{
+					"artifactTypeName": "Non Functional Requirements",
+					"globalTOCPosition": "3.3",
+					"artifactType": "assetartifact_nonfunctionalrequirement",
+					"displayName": "Non Functional Requirements",
+					"format": "text",
+					"typeId": "3.3",
+					"_id": "artifacttype_f0eebd79-15c9-3ebc-a73b-8efc3f634f59",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "4",
+			"parentGroup": "",
+			"_id": "artifactgroup_40044cbe-6c76-33a1-b9e0-eab8937d30ca",
+			"displayName": "Data Model",
+			"child": [
+				{
+					"artifactTypeName": "Logical Data Model",
+					"globalTOCPosition": "4.1",
+					"artifactType": "assetartifact_logical_datamodel",
+					"displayName": "Logical Data Model",
+					"format": "diagram",
+					"typeId": "4.1",
+					"_id": "artifacttype_246bc46f-0286-3ad4-bf01-679592db59c7",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "5",
+			"parentGroup": "",
+			"_id": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+			"displayName": "Architecture",
+			"child": [
+				{
+					"globalTOCPosition": "5.1",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_771e7b65-3b46-390d-bc41-3c88cfaf13ef",
+					"displayName": "Architecture Overview",
+					"child": [
+						{
+							"artifactTypeName": "Services View",
+							"globalTOCPosition": "5.1.1",
+							"artifactType": "assetartifact_architectureoverview_aodservice",
+							"displayName": "Services View",
+							"format": "diagram",
+							"typeId": "5.1.1",
+							"_id": "artifacttype_2c548a13-6bd9-3edc-a496-0318af82f0d1",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Enterprise View",
+							"globalTOCPosition": "5.1.2",
+							"artifactType": "assetartifact_architectureoverview_enterprise",
+							"displayName": "Enterprise View",
+							"format": "diagram",
+							"typeId": "5.1.2",
+							"_id": "artifacttype_16bfe592-ae95-371c-9f64-3a881b667707",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "IT System View",
+							"globalTOCPosition": "5.1.3",
+							"artifactType": "assetartifact_architectureoverview_itsystem",
+							"displayName": "IT System View",
+							"format": "diagram",
+							"typeId": "5.1.3",
+							"_id": "artifacttype_355f72be-6566-3f48-8b15-c30f671d7c8f",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Usage Scenario",
+							"globalTOCPosition": "5.1.4",
+							"artifactType": "assetartifact_architectureoverview_usagescenario",
+							"displayName": "Usage Scenario",
+							"format": "diagram",
+							"typeId": "5.1.4",
+							"_id": "artifacttype_d118451c-0816-3aa5-8b89-3119feb4168a",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"artifactTypeName": "Architectural Decisions",
+					"globalTOCPosition": "5.2",
+					"artifactType": "assetartifact_architecturedecision",
+					"displayName": "Architectural Decisions",
+					"format": "text",
+					"typeId": "5.2",
+					"_id": "artifacttype_fddae3fa-aafa-32af-94a4-bc3e1ed255cc",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"child": [],
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "5.3",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_c848fca1-3956-3bb4-8c88-8815b99e00fc",
+					"displayName": "Component Model",
+					"child": [
+						{
+							"artifactTypeName": "Static View",
+							"globalTOCPosition": "5.3.1",
+							"artifactType": "assetartifact_componentmodel_staticview",
+							"displayName": "Static View",
+							"format": "diagram",
+							"typeId": "5.3.1",
+							"_id": "artifacttype_4a44b8fa-5057-3826-84d7-169a6fc1f2ed",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Dynamic View",
+							"globalTOCPosition": "5.3.2",
+							"artifactType": "assetartifact_componentmodel_dynamicview",
+							"displayName": "Dynamic View",
+							"format": "diagram",
+							"typeId": "5.3.2",
+							"_id": "artifacttype_6e1239a1-6a68-3dae-ae87-b05ecf80d25b",
+							"hasContent": false
+						}
+					]
+				},
+				{
+					"globalTOCPosition": "5.4",
+					"parentGroup": "artifactgroup_074a2b74-43d8-315a-b88b-c0b421754f02",
+					"_id": "artifactgroup_aef1c0cc-540d-31c6-8817-ac2b282f37d3",
+					"displayName": "Operational Model",
+					"child": [
+						{
+							"artifactTypeName": "Logical Operational View",
+							"globalTOCPosition": "5.4.1",
+							"artifactType": "assetartifact_operationalmodel_logicaloperational",
+							"displayName": "Logical Operational View",
+							"format": "diagram",
+							"typeId": "5.4.1",
+							"_id": "artifacttype_5ca43d50-d7da-322f-a1b0-f65b0c12b2c8",
+							"hasContent": false
+						},
+						{
+							"artifactTypeName": "Prescribed Operational View",
+							"globalTOCPosition": "5.4.2",
+							"artifactType": "assetartifact_operationalmodel_physicaloperational",
+							"displayName": "Prescribed Operational View",
+							"format": "diagram",
+							"typeId": "5.4.2",
+							"_id": "artifacttype_7503dbb1-18f7-36ac-ad12-98d977ef3d0d",
+							"hasContent": false
+						}
+					]
+				}
+			]
+		},
+		{
+			"globalTOCPosition": "6",
+			"parentGroup": "",
+			"_id": "artifactgroup_7cddcb3d-c508-3828-8893-128dc3d6c8b7",
+			"displayName": "RAID",
+			"child": [
+				{
+					"globalTOCPosition": "6.1",
+					"artifactTypeName": "Risks",
+					"artifactType": "assetartifact_risk",
+					"displayName": "Risks",
+					"format": "text",
+					"typeId": "6.1",
+					"_id": "artifacttype_94622837-e58f-34c3-9263-8260b69601c8",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.2",
+					"artifactTypeName": "Assumptions",
+					"artifactType": "assetartifact_assumption",
+					"displayName": "Assumptions",
+					"format": "text",
+					"typeId": "6.2",
+					"_id": "artifacttype_2142b656-62ba-304d-95d4-77b1b144e5e1",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.3",
+					"artifactTypeName": "Issues",
+					"artifactType": "assetartifact_issue",
+					"displayName": "Issues",
+					"format": "text",
+					"typeId": "6.3",
+					"_id": "artifacttype_f4d01807-f847-3ccd-87a2-32877074295e",
+					"hasContent": false
+				},
+				{
+					"globalTOCPosition": "6.4",
+					"artifactTypeName": "Dependencies",
+					"artifactType": "assetartifact_dependency",
+					"displayName": "Dependencies",
+					"format": "text",
+					"typeId": "6.4",
+					"_id": "artifacttype_9c5463b3-5c9e-3790-86cb-9b8866cc062a",
+					"hasContent": false
+				}
+			]
+		},
+		{
+			"artifactTypeName": "Architectural Principles",
+			"globalTOCPosition": "7",
+			"artifactType": "assetartifact_architecture_principles",
+			"displayName": "Architectural Principles",
+			"format": "text",
+			"typeId": "7",
+			"_id": "artifacttype_92ccfc5d-c31a-349d-97c0-6d75c8841a8a",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"artifactTypeName": "Misc Diagram",
+			"globalTOCPosition": "8",
+			"artifactType": "assetartifact_miscdiagram",
+			"displayName": "Misc Diagram",
+			"format": "diagram",
+			"typeId": "9",
+			"_id": "artifacttype_23219eb8-b210-3e5a-8621-9881bee93055",
+			"child": [],
+			"hasContent": false
+		},
+		{
+			"artifactTypeName": "Notes",
+			"globalTOCPosition": "9",
+			"artifactType": "assetartifact_notes",
+			"displayName": "Notes",
+			"format": "text",
+			"typeId": "8",
+			"_id": "artifacttype_02226b19-474e-37a6-ab39-d9bb31767fb5",
+			"child": [],
+			"hasContent": false
+		}
+	],
+	"toc_cards": {
+		"executivesummary": {
+			"artifacttype_9edbd406-69fb-3a95-8b2e-58a0974b2710": []
+		},
+		"businesschallenge": {
+			"artifacttype_d1ab4a95-e05f-3882-9f19-6500fc0d3b2b": []
+		},
+		"systemContext": {
+			"artifacttype_8ca70362-e3d1-3b9c-91d1-f755d029a2e3": [
+				{
+					"_id": "systemcontext_3pCsDk4mS6o",
+					"name": "System Context",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2022-07-12 12:36:24",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2022-06-02 16:33:42",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"useCaseViews": {
+			"artifacttype_cde39d5e-c892-3093-ab3d-bad448acb8a0": []
+		},
+		"usecasetext": {
+			"artifacttype_dde4b71c-82db-3f66-964a-3a04fbf56dff": []
+		},
+		"functionalrequirement": {
+			"artifacttype_12eefe0a-435b-3176-8bbe-4dc928a2e4c3": [
+				"functionalrequirement_3tnmb2U5Eao",
+				"functionalrequirement_3tnmjhg1Vpw",
+				"functionalrequirement_3tnn1ACo259",
+				"functionalrequirement_3tnn6W2VvNb",
+				"functionalrequirement_3tnneAAflVb",
+				"functionalrequirement_3tnnCN1Ocvc",
+				"functionalrequirement_3tnoiqdv5ir",
+				"functionalrequirement_3tnooxpcv8o",
+				"functionalrequirement_3tnouAG9Dak"
+			]
+		},
+		"nonfunctionalrequirement": {
+			"artifacttype_f0eebd79-15c9-3ebc-a73b-8efc3f634f59": [
+				"nonfunctionalrequirement_3tnnRfRC9oR",
+				"nonfunctionalrequirement_3tnnYNuC3tr",
+				"nonfunctionalrequirement_3tno3Le5JQu"
+			]
+		},
+		"logicalERD": {
+			"artifacttype_246bc46f-0286-3ad4-bf01-679592db59c7": []
+		},
+		"aodServices": {
+			"artifacttype_2c548a13-6bd9-3edc-a496-0318af82f0d1": []
+		},
+		"aodEnterprises": {
+			"artifacttype_16bfe592-ae95-371c-9f64-3a881b667707": []
+		},
+		"aodITSystems": {
+			"artifacttype_355f72be-6566-3f48-8b15-c30f671d7c8f": [
+				{
+					"_id": "aoditsystem_3r0sc9qXOAH",
+					"name": "ONC Bulk Data API",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2022-06-17 11:48:31",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2022-06-17 09:23:33",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				},
+				{
+					"_id": "aoditsystem_3tmTKfcdRia",
+					"name": "ONC Reference Diagram",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2022-07-12 12:40:51",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2022-07-12 10:28:44",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"aodUsageScenarios": {
+			"artifacttype_d118451c-0816-3aa5-8b89-3119feb4168a": [
+				{
+					"_id": "aodusagescenario_3r0EuRrmOqw",
+					"name": "ONC Bulk Data APIs",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2022-06-22 12:27:15",
+						"avatar": null
+					},
+					"additionalInfo": {
+						"refType": "AODITSystem",
+						"refName": "ONC Bulk Data API"
+					},
+					"lastModified": "2022-06-17 10:12:24",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"architecturaldecision": {
+			"artifacttype_fddae3fa-aafa-32af-94a4-bc3e1ed255cc": []
+		},
+		"cmStaticViews": {
+			"artifacttype_4a44b8fa-5057-3826-84d7-169a6fc1f2ed": [
+				{
+					"_id": "cmstaticview_3tnr406xPeI",
+					"name": "ONC Component Model",
+					"description": null,
+					"lastModifiedInfo": {
+						"userId": null,
+						"date": "2022-07-12 12:42:15",
+						"avatar": null
+					},
+					"additionalInfo": {},
+					"lastModified": "2022-07-12 12:41:04",
+					"c_lastModified": "31-Jul-2018",
+					"c_iconClass": "card_icon_it_system_view"
+				}
+			]
+		},
+		"cmDynamicViews": {
+			"artifacttype_6e1239a1-6a68-3dae-ae87-b05ecf80d25b": []
+		},
+		"lomViews": {
+			"artifacttype_5ca43d50-d7da-322f-a1b0-f65b0c12b2c8": []
+		},
+		"lomPhysicalViews": {
+			"artifacttype_7503dbb1-18f7-36ac-ad12-98d977ef3d0d": []
+		},
+		"miscDiagram": {
+			"artifacttype_23219eb8-b210-3e5a-8621-9881bee93055": []
+		},
+		"risk": {
+			"artifacttype_94622837-e58f-34c3-9263-8260b69601c8": []
+		},
+		"assumption": {
+			"artifacttype_2142b656-62ba-304d-95d4-77b1b144e5e1": []
+		},
+		"issue": {
+			"artifacttype_f4d01807-f847-3ccd-87a2-32877074295e": []
+		},
+		"dependency": {
+			"artifacttype_9c5463b3-5c9e-3790-86cb-9b8866cc062a": []
+		},
+		"architectureprinciple": {
+			"artifacttype_92ccfc5d-c31a-349d-97c0-6d75c8841a8a": []
+		},
+		"notes": {
+			"artifacttype_02226b19-474e-37a6-ab39-d9bb31767fb5": []
+		}
+	},
+	"textual": {
+		"instances": {
+			"functionalrequirement_3tnmb2U5Eao": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:29:39",
+						"_id": "functionalrequirement_3tnmb2U5Eao",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-001",
+						"label": "Expose Patient APIs",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			},
+			"functionalrequirement_3tnmjhg1Vpw": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:22:13",
+						"_id": "functionalrequirement_3tnmjhg1Vpw",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-002",
+						"label": "Register and Manage Third Party Apps",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			},
+			"functionalrequirement_3tnn1ACo259": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:25:02",
+						"_id": "functionalrequirement_3tnn1ACo259",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-003",
+						"label": "Register and Manage Patients and Authorized Reps",
+						"weight": "Low"
+					}
+				]
+			},
+			"functionalrequirement_3tnn6W2VvNb": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:26:11",
+						"_id": "functionalrequirement_3tnn6W2VvNb",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-004",
+						"label": "User Login",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			},
+			"functionalrequirement_3tnneAAflVb": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:25:54",
+						"_id": "functionalrequirement_3tnneAAflVb",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-005",
+						"label": "Choose Scopes",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			},
+			"functionalrequirement_3tnnCN1Ocvc": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:27:25",
+						"_id": "functionalrequirement_3tnnCN1Ocvc",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-006",
+						"label": "Authenticate Apps with Client Assertion JWT",
+						"weight": "Low"
+					}
+				]
+			},
+			"nonfunctionalrequirement_3tnnRfRC9oR": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:28:28",
+						"_id": "nonfunctionalrequirement_3tnnRfRC9oR",
+						"modelType": "NonFunctionalRequirement",
+						"nfr_id": "ONC-NFR-001",
+						"label": "Secure services with TLS 1.2",
+						"theme": "Security",
+						"priority": "Critical",
+						"reviewDate": null,
+						"children": "logicalnode_3tnq1Uz0Aiv"
+					}
+				]
+			},
+			"nonfunctionalrequirement_3tnnYNuC3tr": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:28:54",
+						"_id": "nonfunctionalrequirement_3tnnYNuC3tr",
+						"modelType": "NonFunctionalRequirement",
+						"nfr_id": "ONC-NFR-002",
+						"label": "Validate Access Token",
+						"theme": "Security",
+						"priority": "Critical",
+						"reviewDate": null,
+						"children": "logicalnode_3tmTW2esF01"
+					}
+				]
+			},
+			"nonfunctionalrequirement_3tno3Le5JQu": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:29:12",
+						"_id": "nonfunctionalrequirement_3tno3Le5JQu",
+						"modelType": "NonFunctionalRequirement",
+						"nfr_id": "ONC-NFR-003",
+						"label": "Validate Scopes",
+						"theme": "Security",
+						"priority": "Critical",
+						"reviewDate": null,
+						"children": "logicalnode_3tmUeczWdAv"
+					}
+				]
+			},
+			"functionalrequirement_3tnoiqdv5ir": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:30:06",
+						"_id": "functionalrequirement_3tnoiqdv5ir",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-007",
+						"label": "Accept Report Request",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			},
+			"functionalrequirement_3tnooxpcv8o": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:30:28",
+						"_id": "functionalrequirement_3tnooxpcv8o",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-008",
+						"label": "Check Report Generation Status",
+						"weight": "Low"
+					}
+				]
+			},
+			"functionalrequirement_3tnouAG9Dak": {
+				"coreInfo": [
+					{
+						"lastModifiedUserId": null,
+						"lastModified": "2022-07-12 12:30:54",
+						"_id": "functionalrequirement_3tnouAG9Dak",
+						"modelType": "FunctionalRequirement",
+						"id": "ONC-FR-009",
+						"label": "Provide Report Files",
+						"weight": "Low",
+						"reviewDate": null
+					}
+				]
+			}
+		}
+	},
+	"diagram": {
+		"instances": {
+			"systemcontext_3pCsDk4mS6o": {
+				"uiInfo": "<mxGraphModel dx=\"1206\" dy=\"791\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"systemcontext_3pCsDk4mS6o\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" style=\"ellipse;whiteSpace=wrap;html=1;\" parent=\"1\" vertex=\"1\" modelId=\"targetsystem_3pCsE6Q8rpL\"><mxGeometry x=\"510\" y=\"310\" width=\"140\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_33tnp5eqFBvm\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsGc70nkO\"><mxGeometry x=\"220\" y=\"300\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_43tnp5eqekc7\" style=\"shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsGGajLrU\"><mxGeometry x=\"298\" y=\"475\" width=\"35\" height=\"70\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_53tnp5eqDo3W\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FF9999;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsI1tmmcz\"><mxGeometry x=\"284\" y=\"190\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_63tnp5eqrFN6\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FF9999;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsKhP69ek\"><mxGeometry x=\"430\" y=\"140\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_73tnp5eqM1TH\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FFD966;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsLQjwXlR\"><mxGeometry x=\"520\" y=\"470\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_83tnp5eq3b5J\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#97D077;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsM51xffm\"><mxGeometry x=\"360\" y=\"460\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_93tnp5eq7Ri0\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#CCE5FF;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsMkEKJDZ\"><mxGeometry x=\"710\" y=\"400\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_103tnp5eqt4gM\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#CCE5FF;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsMvPrBry\"><mxGeometry x=\"710\" y=\"315\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_113tnp5eqCcTz\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#CCE5FF;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsMINm35k\"><mxGeometry x=\"710\" y=\"230\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_123tnp5eqrVPf\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#97D077;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCsXgbMlmv\"><mxGeometry x=\"300\" y=\"310\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_133tnp5eqekhG\" style=\"edgeStyle=none;rounded=0;html=1;exitX=0.75;exitY=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_53tnp5eqDo3W\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt6CsAR9C\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_143tnp5eqT581\" style=\"edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_63tnp5eqrFN6\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt7697ZMg\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_153tnp5eqRKB6\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_73tnp5eqM1TH\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt7CPkXfp\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_163tnp5eq5vsv\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_113tnp5eqCcTz\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt80XtlIs\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_173tnp5eqXQKF\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_103tnp5eqt4gM\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt8rBoia3\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_183tnp5eqV6ut\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_93tnp5eq7Ri0\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt8QP1TV8\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_193tnp5eqFeyk\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_83tnp5eq3b5J\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt9jsRGOt\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_203tnp5eqFtKE\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_123tnp5eqrVPf\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3pCt9NKYTUv\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_213tnp5eqd2XT\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#CCE5FF;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3pCtjwI48zg\"><mxGeometry x=\"844\" y=\"354\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_223tnp5eqEaLL\" value=\"External Parties\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"238\" y=\"590\" width=\"120\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_233tnp5eqi17J\" value=\"Business Logic\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"374\" y=\"590\" width=\"120\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_243tnp5er0OYr\" value=\"Management\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"643\" y=\"590\" width=\"120\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_253tnp5erZLV8\" value=\"Security\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;\" parent=\"1\" vertex=\"1\"><mxGeometry x=\"508\" y=\"590\" width=\"120\" height=\"30\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_853tnpmMIEyWT\" style=\"shape=process;html=1;whiteSpace=wrap;fillColor=#FF9999;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3tnpmMJBPcW\"><mxGeometry x=\"590\" y=\"140\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"systemcontext_3pCsDk4mS6o_863tnpoUhf50i\" style=\"rounded=0;html=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"systemcontext_3pCsDk4mS6o_853tnpmMIEyWT\" target=\"systemcontext_3pCsDk4mS6o_23tnp5eqIQED\" edge=\"1\" modelId=\"connector_3tnpoUhXkjQ\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "SystemContext",
+						"_id": "systemcontext_3pCsDk4mS6o",
+						"label": "System Context",
+						"description": "",
+						"lastModified": "2022-07-12 12:36:24"
+					},
+					{
+						"modelType": "TargetSystem",
+						"label": "FHIR R4 APIs Platform",
+						"description": "The ONC Project is all about exposing CareLogic patients' data through interfaces defined by the FHIR R4 spec. The boundary of our system includes all the interfaces needed to implement such spec and the personalization of other components to complement functional and non functional requirements.",
+						"_id": "targetsystem_3pCsE6Q8rpL"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt6CsAR9C",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt7697ZMg",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt7CPkXfp",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt80XtlIs",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt8rBoia3",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt8QP1TV8",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt9jsRGOt",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3pCt9NKYTUv",
+						"type": "function"
+					},
+					{
+						"modelType": "Connector",
+						"label": "",
+						"description": "",
+						"_id": "connector_3tnpoUhXkjQ",
+						"type": "function"
+					}
+				]
+			},
+			"aoditsystem_3r0sc9qXOAH": {
+				"uiInfo": "<mxGraphModel dx=\"1506\" dy=\"799\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aoditsystem_3r0sc9qXOAH\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aoditsystem_3r0sc9qXOAH_23r12nVmXam3\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0siFVDEjD\"><mxGeometry x=\"170\" y=\"90\" width=\"860\" height=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_33r12nVmhy3Y\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0uWykvWBd\"><mxGeometry x=\"10\" y=\"90\" width=\"150\" height=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_43r12nVmfYtH\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1;fontColor=#1A1A1A;\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0slNO5J8N\"><mxGeometry x=\"170\" y=\"550\" width=\"860\" height=\"200\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_53r12nVmYL2P\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/gateway.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sfhMrGnj\"><mxGeometry x=\"300\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_63r12nVmR9OG\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/identity &amp; access management.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sgnQj9Lt\"><mxGeometry x=\"300\" y=\"610\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0swrj2oEs\"><mxGeometry x=\"520\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_83r12nVmmslG\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"740\" y=\"190\" width=\"80\" height=\"80\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_93r12nVm8wwA\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"aoditsystem_3r0sc9qXOAH_83r12nVmmslG\" vertex=\"1\" modelId=\"logicalnode_3r0sAqZjiv6\"><mxGeometry x=\"22\" y=\"4\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_103r12nVmuIo7\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"aoditsystem_3r0sc9qXOAH_83r12nVmmslG\" vertex=\"1\" modelId=\"logicalnode_3r0sBMKsUNh\"><mxGeometry y=\"20\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_113r12nVmoHa8\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/browser.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sQANbDwJ\"><mxGeometry x=\"50\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_123r12nVmwV6l\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/analytics/data integration.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0t0SpV8Fk\"><mxGeometry x=\"520\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_133r12nVmIQg0\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data sources.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0t8x2RFFq\"><mxGeometry x=\"380\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_143r12nVmpR6K\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/browser.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0tmxWn1h7\"><mxGeometry x=\"924\" y=\"450\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_153r12nVmK1rI\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_123r12nVmwV6l\" target=\"aoditsystem_3r0sc9qXOAH_133r12nVmIQg0\" edge=\"1\" modelId=\"logicalconnection_3r0tGuOj5n5\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_163r12nVmOfzY\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" target=\"aoditsystem_3r0sc9qXOAH_103r12nVmuIo7\" edge=\"1\" modelId=\"logicalconnection_3r0tHwUIvmr\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_173r12nVm7Ecb\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_53r12nVmYL2P\" target=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" edge=\"1\" modelId=\"logicalconnection_3r0tWv9y6Xa\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_183r12nVm84Nm\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/infrastructure services/peer services.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0u4Y9Bul3\"><mxGeometry x=\"690\" y=\"500\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_193r12nVmgBTY\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/file repository.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0u9hGq94Y\"><mxGeometry x=\"520\" y=\"620\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_203r12nVmUfXx\" style=\"rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_113r12nVmoHa8\" target=\"aoditsystem_3r0sc9qXOAH_53r12nVmYL2P\" edge=\"1\" modelId=\"logicalconnection_3r0uZRqUp59\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/analytics/streaming computing.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0voAEmhKu\"><mxGeometry x=\"720\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_223r12nVm7vqQ\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;dashed=1;curved=1;exitX=1;exitY=0.75;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_123r12nVmwV6l\" target=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" edge=\"1\" modelId=\"logicalconnection_3r0vroxIuzI\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"580\" y=\"410\"/><mxPoint x=\"650\" y=\"410\"/><mxPoint x=\"650\" y=\"390\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_233r12nVmTvn5\" style=\"edgeStyle=none;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_93r12nVm8wwA\" target=\"aoditsystem_3r0sc9qXOAH_263r12nVmJk5d\" edge=\"1\" modelId=\"logicalconnection_3r0wFaa2YDK\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_243r12nVmfOrD\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"900\" y=\"164\" width=\"90\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_253r12nVmEvwz\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aoditsystem_3r0sc9qXOAH_243r12nVmfOrD\" vertex=\"1\" modelId=\"logicalnode_3r0ssm2Wx0l\"><mxGeometry x=\"24\" y=\"7\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_263r12nVmJk5d\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aoditsystem_3r0sc9qXOAH_243r12nVmfOrD\" vertex=\"1\" modelId=\"logicalnode_3r0srR1N7Vo\"><mxGeometry y=\"30\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_273r12nVm4moc\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.25;entryY=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;curved=1;exitX=1;exitY=0.5;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_263r12nVmJk5d\" edge=\"1\" modelId=\"logicalconnection_3r0wKAYxwLY\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"780\" y=\"350\"/><mxPoint x=\"915\" y=\"350\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_283r12nVmCPNl\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=0.75;entryY=0;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_183r12nVm84Nm\" edge=\"1\" modelId=\"logicalconnection_3r0xubZogcX\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_293r12nVmKitn\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=1;entryY=0.75;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_183r12nVm84Nm\" target=\"aoditsystem_3r0sc9qXOAH_193r12nVmgBTY\" edge=\"1\" modelId=\"logicalconnection_3r0xvdmFhtY\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_303r12nVmvtkU\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=1.102;entryY=1.083;entryPerimeter=0;jettySize=auto;orthogonalLoop=1;strokeColor=none;fontColor=#1A1A1A;curved=1;dashed=1;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" edge=\"1\" modelId=\"logicalconnection_3r0yBeQhrep\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_313r12nVmtYyz\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;fontColor=#1A1A1A;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" target=\"aoditsystem_3r0sc9qXOAH_123r12nVmwV6l\" edge=\"1\" modelId=\"logicalconnection_3r0yDGiOt36\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_323r12nVm0fkV\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=1;entryY=0.75;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;fontColor=#1A1A1A;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_73r12nVmF7ap\" edge=\"1\" modelId=\"logicalconnection_3r0yIlMr7sC\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_333r12nVmrASo\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;dashed=1;curved=1;exitX=0.25;exitY=1;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_133r12nVmIQg0\" edge=\"1\" modelId=\"logicalconnection_3r0Fb6ErDxp\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"716\" y=\"450\" as=\"sourcePoint\"/><mxPoint x=\"436\" y=\"465\" as=\"targetPoint\"/><Array as=\"points\"><mxPoint x=\"731\" y=\"470\"/><mxPoint x=\"436\" y=\"470\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_783r12r3dlgP6\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"915\" y=\"315\" width=\"90\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_793r12r3dOcxF\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aoditsystem_3r0sc9qXOAH_783r12r3dlgP6\" vertex=\"1\" modelId=\"logicalnode_3r12r3dIpRD\"><mxGeometry x=\"24\" y=\"7\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_803r12r3dnuzm\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aoditsystem_3r0sc9qXOAH_783r12r3dlgP6\" vertex=\"1\" modelId=\"logicalnode_3r12r3eczB2\"><mxGeometry y=\"30\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3r0sc9qXOAH_823r12EPUieYH\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aoditsystem_3r0sc9qXOAH_213r12nVmZaHb\" target=\"aoditsystem_3r0sc9qXOAH_803r12r3dnuzm\" edge=\"1\" modelId=\"logicalconnection_3r12EPURm3O\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODITSystem",
+						"_id": "aoditsystem_3r0sc9qXOAH",
+						"label": "ONC Bulk Data API",
+						"description": "",
+						"lastModified": "2022-06-17 11:48:31"
+					},
+					{
+						"modelType": "Location",
+						"label": "QSI Network",
+						"description": "",
+						"_id": "location_3r0siFVDEjD",
+						"children": "logicalnode_3r0sfhMrGnj,logicalnode_3r0swrj2oEs,logicalnode_3r0t0SpV8Fk,logicalnode_3r0t8x2RFFq,logicalnode_3r0tmxWn1h7,logicalnode_3r0u4Y9Bul3,logicalnode_3r0voAEmhKu"
+					},
+					{
+						"modelType": "Location",
+						"label": "Customer Network",
+						"description": "",
+						"_id": "location_3r0uWykvWBd",
+						"children": "logicalnode_3r0sQANbDwJ"
+					},
+					{
+						"modelType": "Location",
+						"label": "External Services",
+						"description": "",
+						"_id": "location_3r0slNO5J8N",
+						"children": "logicalnode_3r0sgnQj9Lt,logicalnode_3r0u4Y9Bul3,logicalnode_3r0u9hGq94Y"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tGuOj5n5",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tHwUIvmr",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tWv9y6Xa",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0uZRqUp59",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0vroxIuzI",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0wFaa2YDK",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0wKAYxwLY",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0xubZogcX",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0xvdmFhtY",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yBeQhrep",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yDGiOt36",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yIlMr7sC",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0Fb6ErDxp",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r12EPURm3O",
+						"flowType": "not specified"
+					}
+				]
+			},
+			"aodusagescenario_3r0EuRrmOqw": {
+				"uiInfo": "<mxGraphModel dx=\"1002\" dy=\"426\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aodusagescenario_3r0EuRrmOqw\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aodusagescenario_3r0EuRrmOqw_23rjjxlvHPES\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0siFVDEjD\"><mxGeometry x=\"170\" y=\"90\" width=\"860\" height=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_33rjjxlvEVCm\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0uWykvWBd\"><mxGeometry x=\"10\" y=\"90\" width=\"150\" height=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_43rjjxlvgAbK\" style=\"whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeWidth=4;strokeColor=#CCCCCC;fillColor=none;fontStyle=1;fontColor=#1A1A1A;\" parent=\"1\" vertex=\"1\" modelId=\"location_3r0slNO5J8N\"><mxGeometry x=\"170\" y=\"550\" width=\"860\" height=\"200\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_53rjjxlvrNi8\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/gateway.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sfhMrGnj\"><mxGeometry x=\"300\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_63rjjxlvgECZ\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/identity &amp; access management.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sgnQj9Lt\"><mxGeometry x=\"300\" y=\"610\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0swrj2oEs\"><mxGeometry x=\"520\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_83rjjxlvfwvV\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"740\" y=\"190\" width=\"80\" height=\"80\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_93rjjxlv4jqQ\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_83rjjxlvfwvV\" vertex=\"1\" modelId=\"logicalnode_3r0sAqZjiv6\"><mxGeometry x=\"22\" y=\"4\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_103rjjxlvr30v\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_83rjjxlvfwvV\" vertex=\"1\" modelId=\"logicalnode_3r0sBMKsUNh\"><mxGeometry y=\"20\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_113rjjxlvHPUb\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/browser.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0sQANbDwJ\"><mxGeometry x=\"50\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_123rjjxlvHQYk\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/analytics/data integration.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0t0SpV8Fk\"><mxGeometry x=\"520\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_133rjjxlvw7Mt\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data sources.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0t8x2RFFq\"><mxGeometry x=\"380\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_143rjjxlvNLtO\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/browser.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0tmxWn1h7\"><mxGeometry x=\"924\" y=\"450\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_153rjjxlvTb4L\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_123rjjxlvHQYk\" target=\"aodusagescenario_3r0EuRrmOqw_133rjjxlvw7Mt\" edge=\"1\" modelId=\"logicalconnection_3r0tGuOj5n5\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_163rjjxlvEfcT\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" target=\"aodusagescenario_3r0EuRrmOqw_103rjjxlvr30v\" edge=\"1\" modelId=\"logicalconnection_3r0tHwUIvmr\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_173rjjxlv6VeQ\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_53rjjxlvrNi8\" target=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" edge=\"1\" modelId=\"logicalconnection_3r0tWv9y6Xa\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_183rjjxlv9CcB\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/infrastructure services/peer services.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0u4Y9Bul3\"><mxGeometry x=\"690\" y=\"500\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_193rjjxlvFeHJ\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/file repository.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0u9hGq94Y\"><mxGeometry x=\"520\" y=\"620\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_203rjjxlvO5nw\" style=\"rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_113rjjxlvHPUb\" target=\"aodusagescenario_3r0EuRrmOqw_53rjjxlvrNi8\" edge=\"1\" modelId=\"logicalconnection_3r0uZRqUp59\"><mxGeometry width=\"150\" height=\"30\" relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/analytics/streaming computing.svg;strokeColor=#66B2FF;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3r0voAEmhKu\"><mxGeometry x=\"720\" y=\"360\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_223rjjxlwfee2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;dashed=1;curved=1;exitX=1;exitY=0.75;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_123rjjxlvHQYk\" target=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" edge=\"1\" modelId=\"logicalconnection_3r0vroxIuzI\"><mxGeometry width=\"30\" height=\"30\" relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"580\" y=\"410\"/><mxPoint x=\"650\" y=\"410\"/><mxPoint x=\"650\" y=\"390\"/></Array></mxGeometry></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_233rjjxlwVdKr\" style=\"edgeStyle=none;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_93rjjxlv4jqQ\" target=\"aodusagescenario_3r0EuRrmOqw_263rjjxlwj4MY\" edge=\"1\" modelId=\"logicalconnection_3r0wFaa2YDK\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_243rjjxlwNcxJ\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"900\" y=\"164\" width=\"90\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_253rjjxlwYYch\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_243rjjxlwNcxJ\" vertex=\"1\" modelId=\"logicalnode_3r0ssm2Wx0l\"><mxGeometry x=\"24\" y=\"7\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_263rjjxlwj4MY\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_243rjjxlwNcxJ\" vertex=\"1\" modelId=\"logicalnode_3r0srR1N7Vo\"><mxGeometry y=\"30\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_273rjjxlwUZsi\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.25;entryY=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;curved=1;exitX=1;exitY=0.5;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_263rjjxlwj4MY\" edge=\"1\" modelId=\"logicalconnection_3r0wKAYxwLY\"><mxGeometry width=\"30\" height=\"30\" relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"780\" y=\"350\"/><mxPoint x=\"915\" y=\"350\"/></Array></mxGeometry></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_283rjjxlwsaBE\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=0.75;entryY=0;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_183rjjxlv9CcB\" edge=\"1\" modelId=\"logicalconnection_3r0xubZogcX\"><mxGeometry width=\"30\" height=\"30\" relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_293rjjxlwJNUI\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=1;entryY=0.75;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_183rjjxlv9CcB\" target=\"aodusagescenario_3r0EuRrmOqw_193rjjxlvFeHJ\" edge=\"1\" modelId=\"logicalconnection_3r0xvdmFhtY\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_303rjjxlwJ2Fr\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=1.102;entryY=1.083;entryPerimeter=0;jettySize=auto;orthogonalLoop=1;strokeColor=none;fontColor=#1A1A1A;curved=1;dashed=1;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" edge=\"1\" modelId=\"logicalconnection_3r0yBeQhrep\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_313rjjxlwATO8\" style=\"edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;fontColor=#1A1A1A;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" target=\"aodusagescenario_3r0EuRrmOqw_123rjjxlvHQYk\" edge=\"1\" modelId=\"logicalconnection_3r0yDGiOt36\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_323rjjxlw9PFY\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;entryX=1;entryY=0.75;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;fontColor=#1A1A1A;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_73rjjxlvM1dP\" edge=\"1\" modelId=\"logicalconnection_3r0yIlMr7sC\"><mxGeometry width=\"30\" height=\"30\" relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_333rjjxlw03ZD\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;dashed=1;curved=1;exitX=0.25;exitY=1;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_133rjjxlvw7Mt\" edge=\"1\" modelId=\"logicalconnection_3r0Fb6ErDxp\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"716\" y=\"450\" as=\"sourcePoint\"/><mxPoint x=\"436\" y=\"465\" as=\"targetPoint\"/><Array as=\"points\"><mxPoint x=\"731\" y=\"470\"/><mxPoint x=\"436\" y=\"470\"/></Array></mxGeometry></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_343rjjxlwxk7a\" value=\"\" style=\"group\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"915\" y=\"315\" width=\"90\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_353rjjxlwwKeB\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_343rjjxlwxk7a\" vertex=\"1\" modelId=\"logicalnode_3r12r3dIpRD\"><mxGeometry x=\"24\" y=\"7\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_363rjjxlwxHz0\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg\" parent=\"aodusagescenario_3r0EuRrmOqw_343rjjxlwxk7a\" vertex=\"1\" modelId=\"logicalnode_3r12r3eczB2\"><mxGeometry y=\"30\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aodusagescenario_3r0EuRrmOqw_373rjjxlwVuYz\" style=\"edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;strokeColor=#3399FF;\" parent=\"1\" source=\"aodusagescenario_3r0EuRrmOqw_213rjjxlv3We3\" target=\"aodusagescenario_3r0EuRrmOqw_363rjjxlwxHz0\" edge=\"1\" modelId=\"logicalconnection_3r12EPURm3O\"><mxGeometry width=\"30\" height=\"30\" relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODUsageScenario",
+						"_id": "aodusagescenario_3r0EuRrmOqw",
+						"label": "ONC Bulk Data APIs",
+						"description": "",
+						"lastModified": "2022-06-22 12:27:15"
+					},
+					{
+						"_id": "aoditsystem_3r0sc9qXOAH",
+						"label": "ONC Bulk Data API",
+						"modelType": "AODITSystem"
+					},
+					{
+						"modelType": "Location",
+						"label": "QSI Network",
+						"description": "",
+						"_id": "location_3r0siFVDEjD",
+						"children": "logicalnode_3r0sfhMrGnj,logicalnode_3r0swrj2oEs,logicalnode_3r0t0SpV8Fk,logicalnode_3r0t8x2RFFq,logicalnode_3r0tmxWn1h7,logicalnode_3r0u4Y9Bul3,logicalnode_3r0voAEmhKu"
+					},
+					{
+						"modelType": "Location",
+						"label": "Customer Network",
+						"description": "",
+						"_id": "location_3r0uWykvWBd",
+						"children": "logicalnode_3r0sQANbDwJ"
+					},
+					{
+						"modelType": "Location",
+						"label": "External Services",
+						"description": "",
+						"_id": "location_3r0slNO5J8N",
+						"children": "logicalnode_3r0sgnQj9Lt,logicalnode_3r0u4Y9Bul3,logicalnode_3r0u9hGq94Y"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tGuOj5n5",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tHwUIvmr",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0tWv9y6Xa",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0uZRqUp59",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0EMDeV2Qq",
+						"label": "1",
+						"description": "Client APP sends request to Generate file based on GROUP ID. Which is just the name of a report.",
+						"children": "logicalconnection_3r0uZRqUp59"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0GdRYFydj",
+						"label": "3",
+						"description": "Client App will receive the Status endpoint where it can ask for status often. ",
+						"children": "logicalconnection_3r0uZRqUp59"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0IVl47PLN",
+						"label": "5",
+						"description": "Client App can keep asking for the current status while the job is running.",
+						"children": "logicalconnection_3r0uZRqUp59"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0J3OTUaAw",
+						"label": "7",
+						"description": "At one point, the status will be COMPLETED and the response will include the endpoints to download files.",
+						"children": "logicalconnection_3r0uZRqUp59"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0Kxk3crD9",
+						"label": "8",
+						"description": "The app can request the files from the endpoints it received in the previous response.",
+						"children": "logicalconnection_3r0uZRqUp59"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0vroxIuzI",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0G9mvlm0w",
+						"label": "2",
+						"description": "Talend will trigger the Job Execution, creating a Job Execution ID and setting the status to \"In Progress\"",
+						"children": "logicalconnection_3r0vroxIuzI"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0wFaa2YDK",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0wKAYxwLY",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0UjkZXEip",
+						"label": "4LT",
+						"description": "<div>For the long term, it is better to extract data from databases and transform it via Talend</div>",
+						"children": "logicalconnection_3r0wKAYxwLY,logicalconnection_3r12EPURm3O"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0xubZogcX",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0J1QJBzKv",
+						"label": "6",
+						"description": "After extracting data the Talend job will create a file, and store it in AWS S3. It will return the mechanism to retrieve the file to the FHIR app. Where is this path? In MongoDB? How can it be retrieved with the FHIR Gateway?",
+						"children": "logicalconnection_3r0xubZogcX"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0xvdmFhtY",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yBeQhrep",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yDGiOt36",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0yIlMr7sC",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "UsageStep",
+						"_id": "usagestep_3r0GkwKgfUp",
+						"label": "4FC",
+						"description": "The Talend Job can extract data from APIs if the amount of patients is small. For passing certification.",
+						"children": "logicalconnection_3r0yIlMr7sC"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r0Fb6ErDxp",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3r12EPURm3O",
+						"flowType": "not specified"
+					}
+				],
+				"additional": {
+					"owneds": []
+				}
+			},
+			"aoditsystem_3tmTKfcdRia": {
+				"uiInfo": "<mxGraphModel dx=\"1506\" dy=\"799\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"aoditsystem_3tmTKfcdRia\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"aoditsystem_3tmTKfcdRia_23tnqCu83cGK\" style=\"whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=2;strokeColor=#CCCCCC;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"location_3tmTYmrxK1x\"><mxGeometry x=\"320\" y=\"160\" width=\"810\" height=\"470\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_33tnqCu9FYBk\" style=\"whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=2;strokeColor=#CCCCCC;fillColor=none;\" parent=\"1\" vertex=\"1\" modelId=\"location_3tmTSBYsCO3\"><mxGeometry x=\"40\" y=\"160\" width=\"270\" height=\"470\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_43tnqCu9u3hy\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/management/management agent.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmTR9U60cI\"><mxGeometry x=\"150\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_53tnqCu9iX6i\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmUeKfRRGz\"><mxGeometry x=\"810\" y=\"319\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_63tnqCu96zDO\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/analytics/dataworks.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmUre8j4aw\"><mxGeometry x=\"810\" y=\"430\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_73tnqCu9gyt4\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/user.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmVbEmn8E1\"><mxGeometry x=\"63\" y=\"210\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_83tnqCu99x4N\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/users/browser.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmVeeHn4JD\"><mxGeometry x=\"150\" y=\"470\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" value=\"\" style=\"group;fillColor=none;strokeColor=#CCCCCC;\" parent=\"1\" vertex=\"1\" connectable=\"0\"><mxGeometry x=\"354\" y=\"219.9998779296875\" width=\"300\" height=\"340\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_103tnqCu9Zaqq\" style=\"whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=2;strokeColor=#CCCCCC;fillColor=#FFFFF0;\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" vertex=\"1\" modelId=\"location_3tmVojrguea\"><mxGeometry width=\"300\" height=\"340\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_113tnqCu9Vgfq\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/identity &amp; access management.svg\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" vertex=\"1\" modelId=\"logicalnode_3tmTWBHo1F2\"><mxGeometry x=\"120\" y=\"229.800048828125\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" vertex=\"1\" modelId=\"logicalnode_3tmUeczWdAv\"><mxGeometry x=\"200\" y=\"49.800048828125\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_133tnqCu9IRPa\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/security/gateway.svg\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" vertex=\"1\" modelId=\"logicalnode_3tmTW2esF01\"><mxGeometry x=\"50\" y=\"49.800048828125\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_143tnqCu9l9pM\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" source=\"aoditsystem_3tmTKfcdRia_133tnqCu9IRPa\" target=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" edge=\"1\" modelId=\"logicalconnection_3tmYxXHpCZ4\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_153tnqCu9KzJ6\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"aoditsystem_3tmTKfcdRia_93tnqCu9sYJG\" source=\"aoditsystem_3tmTKfcdRia_133tnqCu9IRPa\" target=\"aoditsystem_3tmTKfcdRia_113tnqCu9Vgfq\" edge=\"1\" modelId=\"logicalconnection_3tmYLAy7YWe\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_163tnqCu96Hiy\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" target=\"aoditsystem_3tmTKfcdRia_53tnqCu9iX6i\" edge=\"1\" modelId=\"logicalconnection_3tmWGAKeQIt\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"710\" y=\"300\"/><mxPoint x=\"710\" y=\"349\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_173tnqCu9iqxN\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" target=\"aoditsystem_3tmTKfcdRia_63tnqCu96zDO\" edge=\"1\" modelId=\"logicalconnection_3tmWLxfg3zX\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"710\" y=\"300\"/><mxPoint x=\"710\" y=\"460\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_183tnqCu9My78\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_43tnqCu9u3hy\" target=\"aoditsystem_3tmTKfcdRia_133tnqCu9IRPa\" edge=\"1\" modelId=\"logicalconnection_3tmX4bjuUj4\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"260\" y=\"240\"/><mxPoint x=\"260\" y=\"380\"/><mxPoint x=\"380\" y=\"380\"/><mxPoint x=\"380\" y=\"300\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_193tnqCu9Prr2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_83tnqCu99x4N\" target=\"aoditsystem_3tmTKfcdRia_133tnqCu9IRPa\" edge=\"1\" modelId=\"logicalconnection_3tmX4RR42qQ\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"260\" y=\"500\"/><mxPoint x=\"260\" y=\"380\"/><mxPoint x=\"380\" y=\"380\"/><mxPoint x=\"380\" y=\"300\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_203tnqCu985Dy\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/data services.svg;strokeColor=#CCCCCC;strokeWidth=2;fillColor=#FFFFF0;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmUjtzihaf\"><mxGeometry x=\"890\" y=\"217\" width=\"65\" height=\"65\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_213tnqCu9I8qL\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" target=\"aoditsystem_3tmTKfcdRia_203tnqCu985Dy\" edge=\"1\" modelId=\"logicalconnection_3tmXARmvVnY\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"710\" y=\"300\"/><mxPoint x=\"710\" y=\"250\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_223tnqCu9T2Y8\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_43tnqCu9u3hy\" target=\"aoditsystem_3tmTKfcdRia_113tnqCu9Vgfq\" edge=\"1\" modelId=\"logicalconnection_3tmYBp6yOJo\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"260\" y=\"240\"/><mxPoint x=\"260\" y=\"380\"/><mxPoint x=\"380\" y=\"380\"/><mxPoint x=\"380\" y=\"480\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_233tnqCu9eRaS\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_83tnqCu99x4N\" target=\"aoditsystem_3tmTKfcdRia_113tnqCu9Vgfq\" edge=\"1\" modelId=\"logicalconnection_3tmYCi1YrBX\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"260\" y=\"500\"/><mxPoint x=\"260\" y=\"380\"/><mxPoint x=\"380\" y=\"380\"/><mxPoint x=\"380\" y=\"480\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_243tnqCu95mNO\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_53tnqCu9iX6i\" target=\"aoditsystem_3tmTKfcdRia_203tnqCu985Dy\" edge=\"1\" modelId=\"logicalconnection_3tmYWinVQVt\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_253tnqCu90CyM\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/data store/tms data interface.svg;strokeColor=#CCCCCC;strokeWidth=2;fillColor=#FFFFF0;\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tmZw2hdCRj\"><mxGeometry x=\"810\" y=\"530\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_263tnqCu97Lin\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#66B2FF;strokeWidth=2;\" parent=\"1\" source=\"aoditsystem_3tmTKfcdRia_123tnqCu9klla\" target=\"aoditsystem_3tmTKfcdRia_253tnqCu90CyM\" edge=\"1\" modelId=\"logicalconnection_3tmZB0jjs63\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"710\" y=\"300\"/><mxPoint x=\"710\" y=\"560\"/></Array></mxGeometry></mxCell><mxCell id=\"aoditsystem_3tmTKfcdRia_273tnqCua0mFY\" style=\"shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=/assets/mxgraph/stencils/clipart/infrastructure services/edge services.svg\" parent=\"1\" vertex=\"1\" modelId=\"logicalnode_3tnq1Uz0Aiv\"><mxGeometry x=\"280\" y=\"354\" width=\"60\" height=\"60\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "AODITSystem",
+						"_id": "aoditsystem_3tmTKfcdRia",
+						"label": "ONC Reference Diagram",
+						"description": "<div>This diagram shows our representation of our understanding of the FHIR reference architecture. <span style=\"color: rgb(51, 51, 51);\">FHIR specification defines a standard for health care data exchange. That means, it defines the services a system must provide, the data structures that must be interchanged, and the security mechanisms that must be put in place before data exchange occurs.</span></div><div>The specification only dictates the interfaces between data provider systems, Carelogic in our case, and Client applications and leaves any internal implementation details to the service providers.</div><div>This high-level reference diagram shows in the<b> FHIR Defined Services</b> box (light yellow) the components that will be used to provide such interfaces while showing other components/capabilities required to implement those interfaces. </div>",
+						"lastModified": "2022-07-12 12:40:51"
+					},
+					{
+						"modelType": "Location",
+						"label": "QSI FHIR Platform",
+						"description": "",
+						"_id": "location_3tmTYmrxK1x",
+						"children": "logicalnode_3tmUeKfRRGz,logicalnode_3tmUre8j4aw,logicalnode_3tmUjtzihaf,logicalnode_3tmZw2hdCRj,logicalnode_3tnq1Uz0Aiv"
+					},
+					{
+						"modelType": "Location",
+						"label": "External Network",
+						"description": "",
+						"_id": "location_3tmTSBYsCO3",
+						"children": "logicalnode_3tmVeeHn4JD,logicalnode_3tmTR9U60cI,logicalnode_3tmVbEmn8E1,logicalnode_3tnq1Uz0Aiv,logicalnode_3tmTWBHo1F2"
+					},
+					{
+						"modelType": "Location",
+						"label": "FHIR Defined Services",
+						"description": "",
+						"_id": "location_3tmVojrguea",
+						"children": "logicalnode_3tmTR9U60cI,logicalnode_3tmVbEmn8E1,logicalnode_3tmTWBHo1F2,logicalnode_3tmUeczWdAv,logicalnode_3tmTW2esF01"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmYxXHpCZ4",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmYLAy7YWe",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmWGAKeQIt",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmWLxfg3zX",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmX4bjuUj4",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmX4RR42qQ",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmXARmvVnY",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmYBp6yOJo",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmYCi1YrBX",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmYWinVQVt",
+						"flowType": "not specified"
+					},
+					{
+						"modelType": "LogicalConnection",
+						"label": "",
+						"description": "",
+						"_id": "logicalconnection_3tmZB0jjs63",
+						"flowType": "not specified"
+					}
+				]
+			},
+			"cmstaticview_3tnr406xPeI": {
+				"uiInfo": "<mxGraphModel dx=\"1506\" dy=\"799\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"cmstaticview_3tnr406xPeI\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"cmstaticview_3tnr406xPeI_23tnr9im3aG3\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3tnr6S5VWao\"><mxGeometry x=\"50\" y=\"110\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3tnr406xPeI_33tnr9imGPrW\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3tnr406xPeI_23tnr9im3aG3\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3tnr406xPeI_43tnr9imlXQh\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3tnr8e6eZtN\"><mxGeometry x=\"330\" y=\"120\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3tnr406xPeI_53tnr9im8vm5\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3tnr406xPeI_43tnr9imlXQh\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell></root></mxGraphModel>",
+				"coreInfo": [
+					{
+						"modelType": "CMStaticView",
+						"_id": "cmstaticview_3tnr406xPeI",
+						"label": "ONC Component Model",
+						"description": "",
+						"type": "Component Relationship Diagram",
+						"lastModified": "2022-07-12 12:42:15"
+					}
+				]
+			}
+		}
+	},
+	"combined": {
+		"coreInfo": [
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDncmC1x",
+				"category": "Security-Zone",
+				"label": "none",
+				"description": "Either the security controls have not been specified or cannot be controlled.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDndAEqJ",
+				"category": "Security-Zone",
+				"label": "trusted",
+				"description": "Trusted security zone, all traffic and access is by known and trusted parties.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnerPKY",
+				"category": "Security-Zone",
+				"label": "dmz",
+				"description": "Direct access to un-trusted network, no sensitive data. Controlled access to trusted zone.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnfBIuf",
+				"category": "Security-Zone",
+				"label": "un-trusted",
+				"description": "Untrusted traffic, often public networks.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnfJMIX",
+				"category": "Management-Zone",
+				"label": "none",
+				"description": "Unmanaged entity.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDngtfGn",
+				"category": "Management-Zone",
+				"label": "full",
+				"description": "Fully managed.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDngMcKT",
+				"category": "Management-Zone",
+				"label": "limited",
+				"description": "Partially managed.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDngLHbT",
+				"category": "Management-Zone",
+				"label": "no direct",
+				"description": "No direct management.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnhWjHT",
+				"category": "HA-Mode",
+				"label": "active",
+				"description": "High availability replica actively handling workload.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnhuOQs",
+				"category": "HA-Mode",
+				"label": "passive",
+				"description": "High availability replica not handling active workload.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnh7cEf",
+				"category": "Transition-Elements",
+				"label": "unchanged",
+				"description": "Element unchanged in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnirtOx",
+				"category": "Transition-Elements",
+				"label": "updated",
+				"description": "Element is modified or updated in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDniJxua",
+				"category": "Transition-Elements",
+				"label": "removed",
+				"description": "Element being removed in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDniyJeW",
+				"category": "Transition-Elements",
+				"label": "added",
+				"description": "Element being added in this phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "GenericGroup",
+				"_id": "genericgroup_3pCsDnjIexy",
+				"category": "Transition-Elements",
+				"label": "planned",
+				"description": "Element is being planned for some future phase or release.",
+				"type": "Pre-Defined"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Patient",
+				"description": "Any person whose data is being stored in CareLogic and wants to retrieve it via external web or mobile apps.",
+				"_id": "actor_3pCsGc70nkO",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Staff",
+				"description": "Main user of CareLogic, but in this context, it is the user of External Systems that want to communicate with CareLogic through FHIR APIs",
+				"_id": "actor_3pCsGGajLrU",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "PingOne",
+				"description": "Is our IDP provider as a service. It will manage user credentials and a registry of allowed third party apps.",
+				"_id": "actor_3pCsI1tmmcz",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Kong Gateway",
+				"description": "It is our API Gateway. It is responsible for making sure only authenticated requests can access the backend APIs",
+				"_id": "actor_3pCsKhP69ek",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Domain Services",
+				"description": "These are existing services that already provide the data needed for FHIR services but do not adhere to the specification. They will be reused / consumed so that the data provided will be transformed into FHIR entities by our new System.",
+				"_id": "actor_3pCsLQjwXlR",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "External Systems",
+				"description": "Any Third-Party application that will consume our APIs. This can be added on-demand as long as they adhere to the FHIR R4 spec. It represents any system that our customer use / own and want to integrate with CareLogic.",
+				"_id": "actor_3pCsM51xffm",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Third Party Auth",
+				"description": "It is an optional module inside CareLogic to allow System Admins to register third-party applications on-demand, without Operations intervention.",
+				"_id": "actor_3pCsMkEKJDZ",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Patient Access",
+				"description": "It is an optional module inside CareLogic to allow Staff members to create Patients user accounts on-demand, without Operations intervention.",
+				"_id": "actor_3pCsMvPrBry",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Patient Portal",
+				"description": "It is an optional module that can be used by Patients to see their own data. It would be a FHIR client application provided by Qualifacts.",
+				"_id": "actor_3pCsMINm35k",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "External Apps",
+				"description": "Any Third-Party application that will consume our APIs. This can be added on-demand as long as they adhere to the FHIR R4 spec. It is any app the Patient wants to use to retrieve its own data.",
+				"_id": "actor_3pCsXgbMlmv",
+				"type": "IT System"
+			},
+			{
+				"modelType": "Actor",
+				"label": "CareLogic",
+				"description": "It is Qualifacts main system and while it is not truly in the scope of our project, the Patient Access module and the Third Party Auth module should be built inside the Carelogic system when prioritized.",
+				"_id": "actor_3pCtjwI48zg",
+				"type": "IT System"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Kong Gateway",
+				"description": "",
+				"_id": "logicalnode_3r0sfhMrGnj",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/gateway.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "PingOne",
+				"description": "",
+				"_id": "logicalnode_3r0sgnQj9Lt",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/identity & access management.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "FHIR&nbsp; Facade",
+				"description": "",
+				"_id": "logicalnode_3r0swrj2oEs",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "&nbsp;",
+				"description": "",
+				"_id": "logicalnode_3r0sAqZjiv6",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Domains",
+				"description": "",
+				"_id": "logicalnode_3r0sBMKsUNh",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Client Apps",
+				"description": "",
+				"_id": "logicalnode_3r0sQANbDwJ",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/users/browser.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Talend",
+				"description": "",
+				"_id": "logicalnode_3r0t0SpV8Fk",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/analytics/data integration.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "MongoDB",
+				"description": "",
+				"_id": "logicalnode_3r0t8x2RFFq",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data sources.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "CareLogic Admin Module",
+				"description": "",
+				"_id": "logicalnode_3r0tmxWn1h7",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/users/browser.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "FHIR Patients File",
+				"description": "",
+				"_id": "logicalnode_3r0u4Y9Bul3",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/infrastructure services/peer services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "AWS S3",
+				"description": "",
+				"_id": "logicalnode_3r0u9hGq94Y",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/file repository.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Talend Job",
+				"description": "",
+				"_id": "logicalnode_3r0voAEmhKu",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/analytics/streaming computing.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "-",
+				"description": "",
+				"_id": "logicalnode_3r0ssm2Wx0l",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Oracle Schemas",
+				"description": "",
+				"_id": "logicalnode_3r0srR1N7Vo",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "--",
+				"description": "",
+				"_id": "logicalnode_3r12r3dIpRD",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Hive",
+				"description": "",
+				"_id": "logicalnode_3r12r3eczB2",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Human",
+				"description": "",
+				"_id": "actor_3tmTLeFColl",
+				"type": "Human"
+			},
+			{
+				"modelType": "Actor",
+				"label": "IT System",
+				"description": "",
+				"_id": "actor_3tmTM9SAeYo",
+				"type": "IT System"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Standalone Apps",
+				"description": "It is any app that can be used to consume the FHIR APIs and present it to the Patient user. This app must be registered in our system as \"allowed\" to consume our FHIR APIs.",
+				"_id": "logicalnode_3tmTR9U60cI",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/management/management agent.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Domain Services",
+				"description": "Any existing functionality that can be reused and consumed to retrieve data and eventually transformed into FHIR entities.",
+				"_id": "logicalnode_3tmUeKfRRGz",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Device Registry",
+				"description": "",
+				"_id": "logicalnode_3tmUiM1rU8z",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/device registry.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Patient Data",
+				"description": "It is any data store from which we can extract the required Patient data.",
+				"_id": "logicalnode_3tmUjtzihaf",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/data services.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Bulk Data Processing",
+				"description": "<div style=\"text-align: justify;\">This component will implement any bulk data processing requirements. According to the spec, an external system could ask to \"dump\" the whole list of patients.</div>",
+				"_id": "logicalnode_3tmUre8j4aw",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/analytics/dataworks.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Patient",
+				"description": "Is the user that retrieves its own data by using a web app or mobile app. This user must login and grant consent to the standalone app before retrieving any data.",
+				"_id": "logicalnode_3tmVbEmn8E1",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/users/user.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "External System",
+				"description": "Any system or application that belongs to our customers and wants to access our data through the FHIR APIs in an unattended way, that is, without the intervention of users. This app will consume the bulk data APIs to retrieve data through text files.",
+				"_id": "logicalnode_3tmVeeHn4JD",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/users/browser.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "API Gateway",
+				"description": "While FHIR does not define explicitly an API Gateway, it does require capabilities best implemented by such component. The API Gateway will be in charge of being the single entry point for external apps to access our FHIR APIs and will make sure that requests are authenticated before upstreaming requests to the back-end services as required by the spec.",
+				"_id": "logicalnode_3tmTW2esF01",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/gateway.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "IAM Services",
+				"description": "FHIR requires the use and extension of OpenID Connect and OAuth2 and also requires a component that provides a mechanism for registering Apps and Users and authenticating them while issuing tokens. We must be able to support Authorization Code flows and Client Credentials flow with Client Assertion JWT.",
+				"_id": "logicalnode_3tmTWBHo1F2",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/security/identity & access management.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "FHIR Services",
+				"description": "This is the component that will expose the rest endpoints that adhere to the FHIR Specification. It will provide Synchronous interfaces for retrieving data about a single patient and Asynchronous services following the bulk data pattern when external systems ask for a list of patients.",
+				"_id": "logicalnode_3tmUeczWdAv",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/application component/enterprise applications.svg;"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "File Repository",
+				"description": "When an external system asks for a report containing a list of patients (asynchronous services), the provider system must generate a text file that can later be downloaded by the external system. This c component will store the generated file temporarily until it was downloaded by the external system.",
+				"_id": "logicalnode_3tmZw2hdCRj",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/data store/tms data interface.svg;"
+			},
+			{
+				"modelType": "Actor",
+				"label": "Authorization Server",
+				"description": "",
+				"_id": "actor_3tnpmMJBPcW",
+				"type": "IT System"
+			},
+			{
+				"modelType": "LogicalNode",
+				"label": "Edge Services",
+				"description": "This component will ensure data in transit is encrypted using TLS 1.2",
+				"_id": "logicalnode_3tnq1Uz0Aiv",
+				"cardinality": "1",
+				"defaultStyle": "image=/assets/mxgraph/stencils/clipart/infrastructure services/edge services.svg;"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Kong",
+				"description": "",
+				"_id": "logicalcomponent_3tnr6S5VWao",
+				"level": "Technical",
+				"taxonomies": "security | gateway"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Ping",
+				"description": "",
+				"_id": "logicalcomponent_3tnr8e6eZtN",
+				"level": "Technical",
+				"taxonomies": "security | IAM"
+			}
+		]
+	}
+}

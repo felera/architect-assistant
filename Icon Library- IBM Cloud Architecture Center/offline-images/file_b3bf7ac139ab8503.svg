@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="108px" viewBox="0 0 109 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Network Access Control List</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network-Icons" transform="translate(-925.000000, -474.000000)" fill-rule="nonzero">
+            <g id="Network-Access-Control-List" transform="translate(925.007812, 474.000000)">
+                <g id="Group">
+                    <ellipse id="Oval" fill="#E02533" cx="54.4" cy="53.9" rx="54" ry="53.8"></ellipse>
+                    <g transform="translate(7.000000, 38.000000)" fill="#FFFFFF">
+                        <polygon id="Path" points="0.9 28.5 0.9 14.6 0.9 0.8 10.6 7.7 20.3 14.6 10.6 21.5"></polygon>
+                        <rect id="Rectangle" x="23.4" y="0.9" width="3.8" height="27.6"></rect>
+                    </g>
+                    <g transform="translate(77.000000, 39.000000)" fill="#FFFFFF">
+                        <polygon id="Path" points="26.4 0 26.4 13.9 26.4 27.8 16.7 20.8 7.1 13.9 16.7 7"></polygon>
+                        <rect id="Rectangle" transform="translate(2.033000, 13.870900) rotate(-180.000000) translate(-2.033000, -13.870900) " x="0.133" y="0.0709" width="3.8" height="27.6"></rect>
+                    </g>
+                    <g transform="translate(36.000000, 23.000000)">
+                        <ellipse id="Oval" fill="#E02533" cx="20.8" cy="13.1" rx="11.4" ry="8.1"></ellipse>
+                        <g>
+                            <g fill="#E02533">
+                                <path d="M34.1,14.6 C34.1,6.8 27.5,0.2 19.7,0.2 C11.9,0.2 5.3,6.8 5.3,14.6 L5.3,21.1 C2.3,24.5 0.5,28.9 0.5,33.8 C0.5,44.4 9.1,53 19.7,53 C30.3,53 38.9,44.4 38.9,33.8 C38.9,28.9 37.1,24.5 34.1,21.1 L34.1,14.6 L34.1,14.6 Z M10.1,14.6 C10.1,9.5 14.6,5 19.7,5 C24.8,5 29.3,9.5 29.3,14.6 L29.3,17.2 C26.5,15.6 23.2,14.6 19.7,14.6 C16.2,14.6 12.9,15.6 10.1,17.2 L10.1,14.6 L10.1,14.6 Z M16.1,44.4 L7.2,35.5 L10.6,32.1 L16.1,37.6 L28.8,24.9 L32.2,28.3 L16.1,44.4 Z" id="Shape"></path>
+                                <circle id="Oval" cx="19.7" cy="34.1" r="15.3"></circle>
+                            </g>
+                            <path d="M32.9,15.3 C32.9,8.1 26.8,2 19.6,2 C12.4,2 6.3,8.1 6.3,15.3 L6.3,21.3 C3.6,24.5 2,28.5 2,33 C2,42.8 9.9,50.7 19.7,50.7 C29.5,50.7 37.3,42.8 37.3,33 C37.3,28.5 35.6,24.4 32.9,21.3 L32.9,15.3 L32.9,15.3 Z M10.8,15.3 C10.8,10.6 14.9,6.5 19.6,6.5 C24.3,6.5 28.4,10.6 28.4,15.3 L28.4,17.7 C25.8,16.2 22.8,15.3 19.6,15.3 C16.4,15.3 13.4,16.2 10.8,17.7 L10.8,15.3 Z M16.3,42.8 L8.1,34.6 L11.2,31.5 L16.3,36.6 L28,24.8 L31.1,27.9 L16.3,42.8 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
