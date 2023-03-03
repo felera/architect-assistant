@@ -490,7 +490,7 @@
 					"description": null,
 					"lastModifiedInfo": {
 						"userId": null,
-						"date": "2023-01-16 12:13:05",
+						"date": "2023-03-03 10:23:30",
 						"avatar": null
 					},
 					"additionalInfo": {},
@@ -1585,7 +1585,7 @@
 				]
 			},
 			"cmstaticview_3L6gv0u35I5": {
-				"uiInfo": "<mxGraphModel dx=\"1506\" dy=\"799\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"cmstaticview_3L6gv0u35I5\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"cmstaticview_3L6gv0u35I5_23L6j9hrUJt4\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6gwDAJnO1\"><mxGeometry x=\"230\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_33L6j9hrVvUI\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_23L6j9hrUJt4\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_473L6jaJwFQfK\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6jaJw0i9I\"><mxGeometry x=\"500\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_483L6jaJwWzHf\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_473L6jaJwFQfK\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_493L6jebYB2Yn\" style=\"shape=process;html=1;whiteSpace=wrap;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3L6jebY99St\"><mxGeometry x=\"50\" y=\"205\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_503L6jg00Q28x\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_23L6j9hrUJt4\" target=\"cmstaticview_3L6gv0u35I5_493L6jebYB2Yn\" edge=\"1\" modelId=\"logicalconnector_3L6jg0085Zu\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_513L6jhZqXjCy\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_473L6jaJwFQfK\" target=\"cmstaticview_3L6gv0u35I5_23L6j9hrUJt4\" edge=\"1\" modelId=\"logicalconnector_3L6jhZqrJsT\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_523L6jjQYY0Bf\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6jjQYb3Wl\"><mxGeometry x=\"780\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_533L6jjQYRBLv\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_523L6jjQYY0Bf\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_543L6jluGPXVT\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_523L6jjQYY0Bf\" target=\"cmstaticview_3L6gv0u35I5_473L6jaJwFQfK\" edge=\"1\" modelId=\"logicalconnector_3L6jluGGJNb\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_553L6y0UGOMEO\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6y0UGQGbu\"><mxGeometry x=\"500\" y=\"360\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_563L6y0UGGjUB\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_553L6y0UGOMEO\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_573L6y3loQ9uk\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_553L6y0UGOMEO\" target=\"cmstaticview_3L6gv0u35I5_473L6jaJwFQfK\" edge=\"1\" modelId=\"logicalconnector_3L6y3lpS3CF\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_583L6yiP1TUH0\" style=\"shape=process;html=1;whiteSpace=wrap;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3L6yiP2DCRn\"><mxGeometry x=\"810\" y=\"384\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_593L6ykWlBBsH\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_523L6jjQYY0Bf\" target=\"cmstaticview_3L6gv0u35I5_583L6yiP1TUH0\" edge=\"1\" modelId=\"logicalconnector_3L6ykWltsxt\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_603L6Ah9Ur4jW\" style=\"shape=process;html=1;whiteSpace=wrap;\" parent=\"1\" vertex=\"1\" modelId=\"actor_3L6Ah9U4XmO\"><mxGeometry x=\"50\" y=\"375\" width=\"120\" height=\"60\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_623L6ANpQQkZy\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_603L6Ah9Ur4jW\" target=\"cmstaticview_3L6gv0u35I5_493L6jebYB2Yn\" edge=\"1\" modelId=\"logicalconnector_3L6ANpRHxUV\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+				"uiInfo": "<mxGraphModel dx=\"2640\" dy=\"1288\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"1169\" pageHeight=\"827\" background=\"#ffffff\"><root><mxCell id=\"0\" modelId=\"cmstaticview_3L6gv0u35I5\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"cmstaticview_3L6gv0u35I5_23Pr4HCq0WTO\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6gwDAJnO1\"><mxGeometry x=\"410\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_33Pr4HCqtz6e\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_23Pr4HCq0WTO\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_43Pr4HCqMkCV\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6jaJw0i9I\"><mxGeometry x=\"709\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_53Pr4HCqSLU3\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_43Pr4HCqMkCV\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_63Pr4HCqSh8b\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6jjQYb3Wl\"><mxGeometry x=\"709\" y=\"369\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_73Pr4HCqjNME\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_63Pr4HCqSh8b\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_83Pr4HCq84Iu\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_63Pr4HCqSh8b\" target=\"cmstaticview_3L6gv0u35I5_43Pr4HCqMkCV\" edge=\"1\" modelId=\"logicalconnector_3L6jluGGJNb\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_93Pr4HCqWsYZ\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3L6y0UGQGbu\"><mxGeometry x=\"1120\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_103Pr4HCqNLac\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_93Pr4HCqWsYZ\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_113Pr4HCqZ1e4\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_93Pr4HCqWsYZ\" target=\"cmstaticview_3L6gv0u35I5_43Pr4HCqMkCV\" edge=\"1\" modelId=\"logicalconnector_3L6y3lpS3CF\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_123Pr4HCqLa4b\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3PqVzBJauct\"><mxGeometry x=\"160\" y=\"369\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_133Pr4HCqJsHi\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_123Pr4HCqLa4b\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_143Pr4HCqZAXq\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3PqVEJ7gmf8\"><mxGeometry x=\"160\" y=\"190\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_153Pr4HCq5rxc\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_143Pr4HCqZAXq\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_163Pr4HCqgKQL\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_123Pr4HCqLa4b\" target=\"cmstaticview_3L6gv0u35I5_143Pr4HCqZAXq\" edge=\"1\" modelId=\"logicalconnector_3PqVIkTlMaY\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_173Pr4HCqxaPQ\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_23Pr4HCq0WTO\" target=\"cmstaticview_3L6gv0u35I5_143Pr4HCqZAXq\" edge=\"1\" modelId=\"logicalconnector_3PqVIIjEk48\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_183Pr4HCqPsv4\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_23Pr4HCq0WTO\" target=\"cmstaticview_3L6gv0u35I5_43Pr4HCqMkCV\" edge=\"1\" modelId=\"logicalconnector_3PqVJ4kydm0\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_193Pr4HCqr11F\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3PqW2HNCRkC\"><mxGeometry x=\"1150\" y=\"369\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_203Pr4HCqtmrO\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_193Pr4HCqr11F\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_213Pr4HCqQaz6\" style=\"html=1;\" parent=\"1\" vertex=\"1\" modelId=\"logicalcomponent_3PqW5b7yzee\"><mxGeometry x=\"700\" y=\"510\" width=\"180\" height=\"90\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_223Pr4HCqFgGe\" value=\"\" style=\"shape=component;jettyWidth=8;jettyHeight=4;connectable=0;constituent=1;\" parent=\"cmstaticview_3L6gv0u35I5_213Pr4HCqQaz6\" vertex=\"1\"><mxGeometry x=\"1\" width=\"20\" height=\"20\" relative=\"1\" as=\"geometry\"><mxPoint x=\"-27\" y=\"7\" as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_233Pr4HCqkZ37\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_63Pr4HCqSh8b\" target=\"cmstaticview_3L6gv0u35I5_213Pr4HCqQaz6\" edge=\"1\" modelId=\"logicalconnector_3PqW7ZXnSIK\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_243Pr4HCqpAo1\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_213Pr4HCqQaz6\" target=\"cmstaticview_3L6gv0u35I5_193Pr4HCqr11F\" edge=\"1\" modelId=\"logicalconnector_3PqW8IGalc2\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"cmstaticview_3L6gv0u35I5_253Pr4HCqSj2y\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;jettySize=auto;orthogonalLoop=1;\" parent=\"1\" source=\"cmstaticview_3L6gv0u35I5_93Pr4HCqWsYZ\" target=\"cmstaticview_3L6gv0u35I5_193Pr4HCqr11F\" edge=\"1\" modelId=\"logicalconnector_3PqW9p7hSsT\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
 				"coreInfo": [
 					{
 						"modelType": "CMStaticView",
@@ -1593,7 +1593,7 @@
 						"label": "OTP Component View",
 						"description": "",
 						"type": "Component Relationship Diagram",
-						"lastModified": "2023-01-16 12:13:05"
+						"lastModified": "2023-03-03 10:23:30"
 					}
 				]
 			},
@@ -2129,14 +2129,14 @@
 			{
 				"modelType": "LogicalComponent",
 				"label": "Shareplex",
-				"description": "",
+				"description": "It is the CDC system that is listening to changes in the CIH_EVENT_LOG table. For every change in this table (INSERT or UPDATE) Shareplex will put the row content as a message in Kafka.",
 				"_id": "logicalcomponent_3L6gwDAJnO1",
 				"level": "Application"
 			},
 			{
 				"modelType": "LogicalComponent",
 				"label": "Kafka",
-				"description": "",
+				"description": "It is the data streaming service used in our pub/sub stack. It is responsible to carry all the events produced by Shareplex to the various consumers, in our case, the financial-integration abd financial-domain components.",
 				"_id": "logicalcomponent_3L6jaJw0i9I",
 				"level": "Application"
 			},
@@ -2161,8 +2161,8 @@
 			},
 			{
 				"modelType": "LogicalComponent",
-				"label": "Charges Consumer",
-				"description": "",
+				"label": "financial-integration",
+				"description": "It is the component listening to the account topic. It will filter only those messages required for charges creation. Messages filtered by this component will be put in the event topic in json format. ",
 				"_id": "logicalcomponent_3L6jjQYb3Wl",
 				"level": "Application"
 			},
@@ -2174,8 +2174,8 @@
 			},
 			{
 				"modelType": "LogicalComponent",
-				"label": "Financial Domain",
-				"description": "",
+				"label": "financial-domain",
+				"description": "This is the component that will be listening to events topic. Messages should have already been filtered by the financial-integration component.",
 				"_id": "logicalcomponent_3L6y0UGQGbu",
 				"level": "Application"
 			},
@@ -2238,6 +2238,70 @@
 				"description": "",
 				"_id": "actor_3L7ooK5HVWC",
 				"type": "IT System"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "carelogic-web-app",
+				"description": "It is the main web application. Users can create and update Appointments and Visits. Eventually these appointments will come to status KEPT_PATIENT.",
+				"_id": "logicalcomponent_3PqVzBJauct",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "Oracle",
+				"description": "It is the transactional database of Carelogic. Used to stored EHI including Appointments and Visits.",
+				"_id": "logicalcomponent_3PqVEJ7gmf8",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqVIkTlMaY"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqVIIjEk48"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqVJ4kydm0"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "MariaDB",
+				"description": "It is the data store to keep track of messages and also it is the main data store for the financial domain, that is, it is going to store Charges.",
+				"_id": "logicalcomponent_3PqW2HNCRkC",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalComponent",
+				"label": "integration-ibhis",
+				"description": "This component is reused because it exposes a service to track messages that go through kafka. Tracked messages will be stored in the tracking database in MariaDB",
+				"_id": "logicalcomponent_3PqW5b7yzee",
+				"level": "Application"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqW7ZXnSIK"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqW8IGalc2"
+			},
+			{
+				"modelType": "LogicalConnector",
+				"label": "",
+				"description": "",
+				"_id": "logicalconnector_3PqW9p7hSsT"
 			}
 		]
 	}
